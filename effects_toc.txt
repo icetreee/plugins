@@ -1,0 +1,1313 @@
+Logic Pro  
+Effects
+for Mac
+
+Contents
+
+Effects overview 
+
+Effects overview 
+
+Add, remove, move, and copy plug-ins 
+
+Amps and pedals 
+
+Amps and pedals overview 
+
+Amp Designer 
+
+Bass Amp Designer 
+
+Pedalboard 
+
+Stompboxes 
+
+Delay effects 
+
+Delay effects overview 
+
+Delay Designer 
+
+Echo controls 
+
+Sample Delay controls 
+
+Stereo Delay controls 
+
+Tape Delay controls 
+
+Distortion effects 
+
+Distortion effects overview 
+
+Bitcrusher controls 
+
+ChromaGlow controls 
+
+Clip Distortion controls 
+
+Distortion effect controls 
+
+Distortion II controls 
+
+Overdrive controls 
+
+Phase Distortion controls 
+
+7
+
+7
+
+8
+
+12
+
+12
+
+13
+
+27
+
+38
+
+46
+
+58
+
+58
+
+58
+
+76
+
+76
+
+77
+
+79
+
+81
+
+81
+
+82
+
+83
+
+85
+
+86
+
+87
+
+88
+
+88
+
+2
+
+Logic Pro Effects for MacDynamics processors 
+
+Dynamics processors overview 
+
+Adaptive Limiter controls 
+
+Compressor 
+
+DeEsser 2 controls 
+
+Enveloper controls 
+
+Expander controls 
+
+Limiter controls 
+
+Multipressor 
+
+Noise Gate 
+
+Surround Compressor 
+
+Equalizers 
+
+Equalizers overview 
+
+Channel EQ 
+
+Linear Phase EQ 
+
+Match EQ 
+
+Single Band EQ controls 
+
+Vintage EQ Collection 
+
+Filter effects 
+
+Filter effects overview 
+
+AutoFilter 
+
+EVOC 20 Filterbank 
+
+EVOC 20 TrackOscillator 
+
+Fuzz-Wah 
+
+Spectral Gate 
+
+Imaging processors 
+
+Imaging processors overview 
+
+Binaural Post-Processing controls 
+
+Spatial Audio Monitoring 
+
+Direction Mixer 
+
+Stereo Spread controls 
+
+Mastering Assistant 
+
+Mastering Assistant overview 
+
+Add Mastering Assistant to a project 
+
+Mastering Assistant parameters 
+
+90
+
+90
+
+91
+
+92
+
+99
+
+101
+
+102
+
+103
+
+104
+
+109
+
+112
+
+115
+
+115
+
+116
+
+123
+
+129
+
+134
+
+135
+
+141
+
+141
+
+141
+
+146
+
+151
+
+162
+
+165
+
+168
+
+168
+
+168
+
+170
+
+171
+
+174
+
+175
+
+175
+
+176
+
+177
+
+3
+
+Logic Pro Effects for MacMetering tools 
+
+Metering tools overview 
+
+BPM Counter 
+
+Correlation Meter 
+
+Level Meter 
+
+Loudness Meter 
+
+MultiMeter 
+
+Surround MultiMeter 
+
+Use Tuner utility and plug-in 
+
+MIDI plug-ins 
+
+Use MIDI plug-ins 
+
+Arpeggiator MIDI plug-in 
+
+Chord Trigger 
+
+Modifier controls 
+
+Modulator 
+
+Note Repeater controls 
+
+Randomizer controls 
+
+Scripter 
+
+Transposer controls 
+
+Velocity Processor 
+
+Record MIDI to Track 
+
+Modulation effects 
+
+Modulation effects overview 
+
+Chorus controls 
+
+Ensemble controls 
+
+Flanger controls 
+
+Microphaser controls 
+
+Modulation Delay controls 
+
+Phaser controls 
+
+Ringshifter 
+
+Rotor Cabinet effect 
+
+Scanner Vibrato controls 
+
+Spreader controls 
+
+Tremolo controls 
+
+181
+
+181
+
+181
+
+182
+
+183
+
+184
+
+185
+
+191
+
+198
+
+200
+
+200
+
+201
+
+216
+
+220
+
+221
+
+225
+
+226
+
+227
+
+243
+
+243
+
+246
+
+248
+
+248
+
+248
+
+249
+
+251
+
+251
+
+252
+
+254
+
+255
+
+260
+
+264
+
+265
+
+266
+
+4
+
+Logic Pro Effects for MacMulti effects 
+
+Multi-effects overview 
+
+Beat Breaker 
+
+Phat FX 
+
+Remix FX 
+
+Step FX 
+
+Pitch effects 
+
+Pitch effects overview 
+
+Pitch Correction effect 
+
+Pitch Shifter 
+
+Vocal Transformer 
+
+Reverb effects 
+
+Reverb effects overview 
+
+ChromaVerb 
+
+EnVerb controls 
+
+Quantec Room Simulator 
+
+SilverVerb controls 
+
+Space Designer convolution reverb 
+
+Space Designer overview 
+
+Space Designer interface 
+
+Use impulse responses 
+
+Space Designer envelopes and EQ 
+
+Space Designer global parameters 
+
+Specialized effects 
+
+Specialized effects overview 
+
+Exciter controls 
+
+SubBass 
+
+Utilities and tools 
+
+Utilities and tools overview 
+
+Auto Sampler 
+
+Down Mixer controls 
+
+Gain controls 
+
+Use I/O utility 
+
+Multichannel Gain controls 
+
+Test Oscillator 
+
+268
+
+268
+
+269
+
+277
+
+285
+
+288
+
+300
+
+300
+
+300
+
+305
+
+307
+
+310
+
+310
+
+311
+
+317
+
+319
+
+327
+
+328
+
+328
+
+329
+
+330
+
+334
+
+342
+
+349
+
+349
+
+349
+
+350
+
+353
+
+353
+
+353
+
+358
+
+359
+
+360
+
+361
+
+362
+
+5
+
+Logic Pro Effects for MacLegacy effects 
+
+Legacy effects overview 
+
+AVerb controls 
+
+Bass Amp controls 
+
+DeEsser controls 
+
+Denoiser 
+
+Ducker controls 
+
+EQ 
+
+GoldVerb 
+
+Grooveshifter controls 
+
+Guitar Amp Pro 
+
+PlatinumVerb 
+
+Silver Compressor controls 
+
+Silver Gate controls 
+
+Speech Enhancer controls 
+
+Copyright 
+
+364
+
+364
+
+364
+
+365
+
+366
+
+368
+
+369
+
+371
+
+374
+
+377
+
+378
+
+383
+
+386
+
+387
+
+388
+
+389
+
+6
+
+Logic Pro Effects for MacEffects overview
+
+Effects overview in Logic Pro for Mac
+Logic Pro provides an extensive suite of software effect plug-ins that can be used in  
+your productions.
+
+See the Add, remove, move, and copy plug-ins and Work in the plug-in window sections.
+
+Effects categories include both insert effects and processors that are principally designed 
+for mastering use. Because you’re free to use almost all plug-ins as you see fit, there are 
+few restrictions on the use of effects anywhere in the signal path.
+
+Most effects can be used in mono, stereo, dual mono, or surround channels. Logic Pro  
+also provides a number of dedicated surround plug-ins. See Use surround effects and 
+Multi-mono effects.
+
+Effects categories cover essential studio processors, such as compression, gating, 
+limiting, equalization, and metering utilities. Both vintage and modern style compressors 
+are emulated, making it easy to attain the sonic characteristics you need. See Dynamics 
+processors and Metering tools.
+
+EQ options are extensive. The Linear Phase EQ is perfect for sculpting your primary vocal and 
+instrument parts. Match EQ analyzes existing audio and allows you to impose an analyzed 
+sonic “fingerprint” on other audio parts. The vintage EQ collection delivers emulations of 
+three classic analog EQ units known for their distinctive sonic coloration. See Equalizers.
+
+A comprehensive collection of reverb, delay, and modulation effects is available to enhance 
+your productions. Among these are the unique ChromaVerb, the Quantec Room Simulator, 
+and the sophisticated and highly configurable Delay Designer and Space Designer plug-
+ins. Delay Designer lets you create precise, complex, and rhythmic delays. Space Designer 
+is a convolution reverb that uses recordings of real-world spaces, such as concert halls 
+and canyons, that you can impose on your audio, effectively placing your instrument or 
+vocal in the space. See Reverb effects and Delay effects.
+
+Modulation processors include phasing, flanging, ring modulation, vintage rotary speaker 
+emulation, and rich chorus effects. See Modulation effects.
+
+If you’re a guitarist or are using the classic B3 organ, Rhodes, Clavinet, or Mellotron 
+emulations provided by the included vintage instruments, you can choose from a vast 
+collection of retro and modern effect pedals and amplifier simulations. See Amps and pedals.
+
+A number of powerful Distortion and Filter effects further expand your options. The filters 
+include vocoder-like utilities and the Spectral Gate plug-in that offer control over the 
+formant and spectral characteristics of your sounds.
+
+7
+
+Logic Pro Effects for MacAdding a further string to your bow are the flexible, powerful, and fun multi effects units 
+that combine a collection of processors and modulators in one place. See Multi effects. 
+These are ideal for use with urban and dance floor-oriented tracks, but can truly transform 
+any sound you want to run through them.
+
+You can manipulate pitch with the Pitch Correction, Pitch Shifter and Vocal Transformer 
+effects. These can be used for subtle corrections or for heavy Cher-like processing of 
+vocals and instruments. See Pitch effects.
+
+A selection of MIDI plug-ins includes a flexible arpeggiator, chord memorizer, transposer, 
+and more. These can be inserted in instrument channels and process MIDI data in real time. 
+If you have an interest in creating your own MIDI processing (or generation) utilities, the 
+Scripter plug-in enables you to build custom JavaScript plug-ins. See MIDI plug-ins.
+
+Rounding out the collection are spatial and frequency enhancement plug-ins, and useful 
+studio utilities such as a test oscillator. See Imaging processors, Specialized effects, and 
+Utilities and tools.
+
+Add, remove, move, and copy plug-ins in Logic Pro 
+for Mac
+You can add plug-ins, replace a plug-in with a different one, and remove plug-ins from a 
+channel strip. You can also move, copy, and bypass plug-ins. If you’re unhappy with any  
+of your plug-in adjustments, you can undo them.
+
+Add an audio effect plug-in
+
+In a Logic Pro channel strip, do one of the following:
+
+•  Click an Audio Effect slot, then choose a plug-in from the pop-up menu.
+
+The last visible empty Audio Effect slot in a channel strip is shown at half its height; use 
+it in the same way.
+
+8
+
+Logic Pro Effects for Mac•  Option-click an Audio Effect slot.
+
+You can now choose legacy plug-ins from the pop-up menu.
+
+Add a MIDI effect plug-in
+
+In a Logic Pro instrument channel strip, do one of the following:
+
+•  Click the MIDI Effect slot, then choose a plug-in from the pop-up menu.
+
+•  Place the pointer above or below an occupied MIDI Effect slot, click the green line that 
+
+appears, then choose a plug-in from the pop-up menu.
+
+Replace a plug-in
+
+• 
+
+In a Logic Pro channel strip, place the pointer over the plug-in slot, click the arrows that 
+appear to the right, then choose a plug-in to replace the existing one.
+
+9
+
+Logic Pro Effects for MacRemove a plug-in
+
+• 
+
+In a Logic Pro channel strip, place the pointer over the plug-in slot, click the arrows that 
+appear to the right, then choose No Plug-in from the pop-up menu.
+
+Move an effect or MIDI plug-in
+
+• 
+
+In a Logic Pro channel strip, drag the plug-in up or down in the channel strip, or to 
+another channel strip.
+
+For guidance, use the line that appears when moving the plug-in.
+
+Copy an effect or MIDI plug-in
+
+• 
+
+In a Logic Pro channel strip, press and hold Option and drag the plug-in to an  
+unused slot.
+
+Bypass a plug-in
+
+If you want to deactivate a plug-in, but don’t want to remove it from the channel strip, you 
+can bypass it. Bypassed plug-ins don’t drain system resources.
+
+• 
+
+In Logic Pro, to bypass a single plug-in, do one of the following:
+
+•  Place the pointer over the plug-in slot, then click the Bypass button that appears to 
+
+the left.
+
+10
+
+Logic Pro Effects for Mac•  Option-click the plug-in slot.
+
+•  Click the center area of the plug-in slot to open the plug-in window, then click the 
+
+Bypass button at the left side of the plug-in window header.
+
+•  To bypass multiple plug-ins, click a plug-in slot, then drag the pointer up or down.
+
+All swiped plug-in slots switch to the same state.
+
+11
+
+Logic Pro Effects for MacAmps and pedals
+
+Amps and pedals in Logic Pro for Mac
+Logic Pro features an extensive collection of guitar and bass amplifiers and classic pedal 
+effects. You can play live—or process recorded audio and software instrument parts—
+through these amps and effects.
+
+The amplifier models recreate vintage and modern tube and solid-state amps. Built-
+in effect units, such as reverb, tremolo, or vibrato, are also reproduced. The modeled 
+amplifiers can be paired with a number of emulated speaker cabinets. These amplifiers 
+and speaker cabinets can be used as a matching set or combined in other ways to create 
+interesting hybrids.
+
+Also emulated are a number of “classic” foot pedal effects—or stompboxes—that were, and 
+remain, popular with guitarists and keyboardists. As with their real-world counterparts, you 
+can chain pedals in any order to create your sound.
+
+Stompbox effects can be used in the Pedalboard plug-in, or you can use them individually 
+in channel strip effect slots. See Stompboxes.
+
+If you’re new to using plug-ins in Logic Pro, see Add, remove, move, and copy plug-ins.
+
+12
+
+Logic Pro Effects for MacAmp Designer
+
+Amp Designer overview in Logic Pro for Mac
+
+Amp Designer emulates the sound of more than 20 famous guitar amplifiers and the 
+speaker cabinets used with them. Each preconfigured model combines an amp, a cabinet, 
+and EQ that recreates a well-known guitar amplifier sound. You can process guitar signals 
+directly, reproducing the sound of your guitar played through these amplification systems. 
+You can also use Amp Designer for experimental sound design and processing. You can use 
+it with other instruments as well, applying the sonic character of a guitar amp to a trumpet 
+or vocal part, for example.
+
+The amplifiers, cabinets, and EQs emulated by Amp Designer can be combined in 
+numerous ways to alter the tone. Virtual microphones are used to pick up the signal of 
+the emulated amplifier and cabinet. You can choose from, and position, seven different 
+microphone types. Amp Designer also emulates classic guitar amplifier effects, including 
+spring reverb, vibrato, and tremolo.
+
+To add Amp Designer to your project, choose Amps and Pedals > Amp Designer in a 
+channel strip Audio Effect plug-in menu. See Add, remove, move, and copy plug-ins.
+
+The Amp Designer interface is divided into four main parameter sections.
+
+•  Model parameters: The Model pop-up menu at the bottom of the window is used to 
+choose a preconfigured model, consisting of an amplifier, a cabinet, an EQ type, and 
+a microphone type. The other pop-up menus enable you to independently choose the 
+type of amplifier, cabinet, and microphone. See Build a custom Amp Designer combo.
+
+•  Amp parameters: Located at each end of the knobs section, these parameters are  
+used to set the input gain, presence, and output level of an amp. See Amp Designer 
+amplifier controls.
+
+•  Effects parameters: Located in the center of the knobs section, these parameters 
+
+control the integrated effects. See Amp Designer effects overview.
+
+13
+
+Logic Pro Effects for Mac•  Microphone parameters: Located at the right of the interface, these parameters set  
+
+the type and position of the microphone that captures the amplifier and cabinet sound. 
+See Amp Designer microphone parameters.
+
+•  Output slider: The Output slider (or the Output field, in the small interface) is found 
+at the lower-right corner of the interface. It serves as the final level control for 
+Amp Designer output that is fed to ensuing effect slots in the channel strip or directly  
+to the channel strip output.
+Note: This parameter is different from the Master control, which serves the dual 
+purpose of sound design as well as controlling the level of the Amp section.
+
+Switch between the full and small versions of the interface
+•  Window size: In Logic Pro, click the disclosure arrow to switch between the full and 
+
+small versions of the interface.
+
+In the small interface, you can access all parameters except microphone selection  
+and positioning.
+
+Choose an Amp Designer model
+
+You can use the Model pop-up menu to choose a preconfigured model, or you can build 
+a customized model using the Amp, Cabinet, and Mic pop-up menus. See Build a custom 
+Amp Designer combo. Your choices remain visible in the pop-up menus and they are also 
+illustrated in the visual display above them. For example, if you choose Tweed 4X10 from 
+the Cabinet pop-up menu, you see the Tweed cabinet with four 10” speakers on the right 
+side of the display.
+
+•  Model pop-up menu: In Logic Pro, choose a preconfigured model, consisting of an 
+
+amplifier, a cabinet, an EQ type, and a microphone type.
+
+14
+
+Logic Pro Effects for MacAmp Designer models in Logic Pro for Mac
+
+You can learn about different Amp Designer models, their tone and sonic character, and the 
+musical styles they have traditionally been associated with.
+
+Tweed Combos
+
+The Tweed models are based on American combos from the 1950s and early 1960s that 
+helped define the sounds of blues, rock, and country music. They have warm, complex, 
+clean sounds that progress smoothly through gentle distortion to raucous overdrive as  
+you increase the gain. Even after half a century, Tweeds can still sound contemporary. 
+Many modern boutique amplifiers are based on Tweed-style circuitry.
+
+Model
+
+Description
+
+Small Tweed Combo
+
+Large Tweed Combo
+
+Mini Tweed Combo
+
+A 1 x 12” combo that transitions smoothly from clean to crunchy, making it 
+a great choice for blues and rock. For extra definition, set the Treble and 
+Presence controls to a value around 7.
+
+This 4 x 10” combo was originally intended for bassists, but it was also 
+used by blues and rock guitarists. It is more open and transparent-
+sounding than the Small Tweed Combo, but it can deliver crunchy sounds.
+
+A small amp with a single 10” speaker, used by countless blues and rock 
+artists. It is quite punchy-sounding and can deliver the clean and crunch 
+tones that Tweed combos are known for.
+
+ Tip: Tweed combos are responsive to playing dynamics. Adjust the knobs to create a 
+distorted sound, then reduce the level of your guitar volume knob to create a cleaner tone. 
+Turn up your guitar volume knob when soloing.
+
+Classic American Combos
+
+The Black Panel, Brown Panel, and Silver Panel models are inspired by American combos 
+of the mid 1960s. These tend to be loud and clean with a tight low-end and restrained 
+distortion. They are useful for clean-toned rock, vintage R & B, surf music, twangy country, 
+jazz, or any other style where strong note definition is essential.
+
+Model
+
+Description
+
+Large Black Panel Combo
+
+A 4 x 10” combo with a sweet, well-balanced tone favored by rock,  
+surf, and R & B players. Great for lush, reverb-saturated chords or  
+strident solos.
+
+Silver Panel Combo
+
+A 2 x 12” combo with a loud, clean tone. It has a percussive, articulate 
+attack that is suitable for funk, R & B, and intricate chord work. It can be 
+crunchy when overdriven, but most players favor it for clean tones.
+
+Mini Black Panel Combo
+
+A 1 x 10” combo that is bright and open-sounding, with reasonable low 
+end impact. It excels at clean tones with a minimal overdrive.
+
+Small Brown Panel Combo
+
+A 1 x 12” combo that is smooth and rich-sounding, but retains a level  
+of detail.
+
+Blues Blaster Combo
+
+A 1 x 15” combo that has a clear top end with a tight, defined low end. 
+This model is favored by blues and rock players.
+
+15
+
+Logic Pro Effects for Mac Tip: Although these amps tend toward a clean and tight sound, you can use a 
+
+Pedalboard distortion stompbox to attain hard-edged crunch sounds with sharp treble  
+and extended low-end definition. See Pedalboard distortion pedals.
+
+British Stacks
+
+The British Stack models are based on the 50- and 100-watt amplifier heads that have 
+largely defined the sound of heavy rock, especially when paired with 4 x 12” cabinets. At 
+medium gain settings, these amps are suitable for thick chords and riffs. Raising the gain 
+yields lyrical solo tones and powerful rhythm guitar parts. Complex peaks and dips across 
+the tonal spectrum keep the tones clear and appealing, even when heavy distortion is used.
+
+Model
+
+Description
+
+Vintage British Stack
+
+Modern British Stack
+
+Brown Stack
+
+Captures the sound of a late 1960s 50-watt amp famed for its powerful, 
+smooth distortion. Notes retain clarity, even at maximum gain. After four 
+decades this remains a definitive rock tone.
+
+1980s and 1990s descendants of the Vintage British amplifier head, which 
+were optimized for hard rock and metal styles of the time. Tonally, it has a 
+deeper and brighter sound at the low and high end, with a more “scooped” 
+midrange than the Vintage British amp.
+
+Unique tones can be coaxed from a British head by running it at lower 
+voltages than its designers intended. The resulting “brown” sound—often 
+more distorted and loose than the standard tone—can add interesting 
+thickness to a guitar sound.
+
+ Tip: The classic British head and 4 x 12” cabinet combo is ideal for riffs at high  
+gain levels. These heads can also sound good through small cabinets, or at clean,  
+low-gain settings.
+
+British Combos
+
+The British Combos capture the brash, treble-rich sound associated with 1960s British rock 
+and pop. The sonic signature of these amps is characterized by their high-end response, 
+yet they are rarely harsh-sounding due to a mellow distortion and smooth compression.
+
+Model
+
+Description
+
+British Blues Combo
+
+British Combo
+
+Small British Combo
+
+Boutique British Combo
+
+This 2 x 12” combo has a loud, aggressive tone that is cleaner than the 
+British heads, yet delivers rich distorted tones at high gain settings.
+
+A 2 x 12” combo based on early 1960s amps. Perfect for chiming chords 
+and crisp solos.
+
+A 1 x 12” combo with half the power of the British Combo, this amp offers 
+a darker, less open tone.
+
+A 2 x 12” combo that is a modern take on the original 1960s sound. The 
+tone is thicker, with stronger lows and milder highs than the other British 
+Combos.
+
+ Tip: You can often use higher Treble and Presence knob settings with the British 
+
+Combos than with other amp types. If the British Blues Combo is too clean for your needs, 
+combine it with the Pedalboard Hi Drive stompbox for an aggressive blues tone, or the 
+Candy Fuzz stompbox for a heavy rock tone. See Pedalboard distortion pedals. 
+
+16
+
+Logic Pro Effects for MacBritish Alternatives
+
+The late 1960s amplifier heads and combos that inspired the Sunshine models are loud and 
+aggressive, with full mid frequencies. These amps are useful for single note solos, power 
+chords, and big, open chords—making them popular with the “Brit-pop” bands of the 
+1990s. The Stadium amps are famed for their ability to play at extremely high levels without 
+dissolving into an indistinct distortion. They retain crisp treble and superb note definition, 
+even at maximum gain settings.
+
+Model
+
+Description
+
+Sunshine Stack
+
+Small Sunshine Combo
+
+Stadium Stack
+
+A robust-sounding head paired with a 4 x 12” cabinet. It is a good choice 
+for powerful pop-rock chords. If the tone is too dark, use a high Treble 
+knob setting to open up the sound.
+
+A 1 x 12” combo based on a modern amp known for a “big amp” sound. It 
+is brighter than the Sunshine Stack head and has tonal qualities similar 
+to the 1960s British Combo. This amp also sounds good with a 4 x 12” 
+cabinet.
+
+A classic head and 4 x 12” cabinet configuration popular with 1970s arena 
+rock bands. Its tones are cleaner than other Amp Designer 4 x 12” stacks, 
+but it retains body and impact. A good choice if you need power and 
+clarity.
+
+Stadium Combo
+
+A 2 x 12” combo based on a modern amp. The tone is smoother than the 
+Stadium Stack.
+
+ Tip: The Stadium amps can be slow to distort, so most famous users have paired them 
+with aggressive fuzz pedals. Try combining them with the Pedalboard Candy Fuzz or Fuzz 
+Machine stompboxes. See Pedalboard distortion pedals.
+
+Metal Stacks
+
+The Metal Stack models are inspired by the powerful, high gain amplifier heads favored by 
+modern hard rock and metal musicians. All are paired with 4 x 12” cabinets. Their signature 
+tones range from heavy distortion to extremely heavy distortion. These models are ideal if 
+you want powerful lows, harsh highs, and long sustain in your guitar tones.
+
+Model
+
+Description
+
+Modern American Stack
+
+A powerful high-gain amp that is ideal for heavy rock and metal. Use the 
+Mids knob to set the right amount of scoop or boost.
+
+High Octane Stack
+
+Turbo Stack
+
+Although a powerful, high-gain amp, this model offers a smooth transition 
+between gain settings and natural compression. It is a good choice for fast 
+soloing and for two- or three-note chords.
+
+An aggressive-sounding amp with spiky highs and noisy harmonics, 
+especially at high gain settings. Use the Turbo Stack when you need a 
+guitar tone that cuts through a mix.
+
+ Tip: Combining the Turbo Stack with distortion and fuzz pedals can diminish the edgy 
+
+tone. A dry sound is often the best choice for high-impact riffs.
+
+17
+
+Logic Pro Effects for MacAdditional Combos
+
+The combos and utility models in this category are versatile amps that you can use for a 
+wide variety of musical styles.
+
+Model
+
+Description
+
+Studio Combo
+
+Boutique Retro Combo
+
+Pawnshop Combo
+
+A 1 x 12” combo based on boutique combos of the 1980s and 1990s. 
+These models use multiple gain stages to generate smooth, sustain-heavy 
+distortion and bold, bright, clean sounds. Can deliver a heavier sound 
+when paired with a 4 x 12” cabinet.
+
+A 2 x 12” combo inspired by expensive modern amps that combine the 
+sounds of several 1960s combos. It excels at clean and crunch tones, 
+making it a good choice when you want an old-fashioned flavor but with 
+the crisp highs and defined lows of a modern amplifier. This model has 
+very sensitive tone controls that can deliver countless guitar tones.
+
+A 1 x 8” combo based on the inexpensive amps sold in American 
+department stores in the 1960s. Despite their limited features and budget 
+workmanship, these amps are the secret behind the sound of many rock, 
+blues, and punk players. The clean sounds are warm, and distorted sounds 
+are thick, despite the small speaker.
+
+Transparent Preamp
+
+A preamp stage with no coloration. Note that Transparent Preamp is 
+activated in the Amp pop-up menu, not in the Model pop-up menu.
+
+ Tip: Combine the Pawnshop Combo amp with the Pedalboard Hi Drive or Candy  
+
+Fuzz stompboxes to emulate hard rock tones of the late 1960s. See Pedalboard  
+distortion pedals.
+
+Amp Designer cabinets in Logic Pro for Mac
+
+Learn about the properties and tone of each cabinet model available in Amp Designer.
+
+Cabinet
+
+Tweed 1 x 12
+
+Tweed 4 x 10
+
+Tweed 1 x 10
+
+Description
+
+A 12” open-back cabinet from the 1950s with a warm and smooth tone.
+
+A 4 x 10” open-back cabinet from the late 1950s that was originally 
+conceived for bassists but that guitarists use for its sparkling presence.
+
+A single 10” open-back combo amp cabinet from the 1950s with a  
+smooth sound.
+
+Black Panel 4 x 10
+
+Classic open-back cabinet with four 10” speakers. Its tone is deeper and 
+darker than the Tweed 4 x 10.
+
+Silver Panel 2 x 12
+
+An open-back model from the 1960s that provides low-end punch.
+
+Black Panel 1 x 10
+
+An open-back 1960s cabinet with glassy highs and low/mid body.
+
+Brown Panel 1 x 12
+
+Brown Panel 1 x 15
+
+A balanced 1960s open-back cabinet that is smooth, transparent, and 
+rich-sounding.
+
+This early 1960s open-back cabinet houses the largest speaker emulated 
+by Amp Designer. Its highs are clear and glassy, and its lows are tight  
+and focused.
+
+18
+
+Logic Pro Effects for MacCabinet
+
+Description
+
+Vintage British 4 x 12
+
+This late 1960s closed-back cabinet is synonymous with classic rock. The 
+tone is big and thick yet also bright and lively, due to the complex phase 
+cancelations between the four 30-watt speakers.
+
+Modern British 4 x 12
+
+A closed-back 4 x 12” cabinet that is brighter and has a better low end 
+than the Vintage British 4 x 12, with less midrange emphasis.
+
+Brown 4 x 12
+
+A closed-back 4 x 12” cabinet with a good low end and complex midrange.
+
+British Blues 2 x 12
+
+A bright-sounding open-back cabinet with solid lows and crisp highs, even 
+at high gain settings.
+
+Modern American 4 x 12
+
+A closed-back 4 x 12” cabinet with a full sound. The lows and mids are 
+denser than the British 4 x 12” cabinets.
+
+Studio 1 x 12
+
+British 2 x 12
+
+British 1 x 12
+
+A compact-sounding open-back cabinet with full mids and glassy highs.
+
+A mid 1960s open-back cabinet with an open, smooth tone.
+
+A small open-back cabinet with crisp highs and low/mid transparency.
+
+Boutique British 2 x 12
+
+A 2 x 12” cabinet based on the British 2 x 12. It has a richer midrange and 
+is more powerful in the treble range.
+
+Sunshine 4 x 12
+
+A 4 x 12” closed-back cabinet with a thick, rich midrange.
+
+Sunshine 1 x 12
+
+A single 12” open-back combo amp cabinet with a lively sound that has 
+bright, sweet highs, and transparent mids.
+
+Stadium 4 x 12
+
+A tight, bright, closed-back British cabinet with bold upper/mid peaks.
+
+Stadium 2 x 12
+
+A nicely balanced modern British open-back cabinet. Tonally, it is a 
+compromise between the warmth of the Black Panel 4 x 10 and the 
+brilliance of the British 2 x 12.
+
+Boutique Retro 2 x 12
+
+A 2 x 12” cabinet based on the British 2 x 12. It has a rich, open midrange 
+and is more powerful in the treble range.
+
+High Octane 4 x 12
+
+Turbo 4 x 12
+
+A modern, closed-back European cabinet with strong lows and highs and 
+scooped mids appropriate for metal and heavy rock.
+
+A modern, closed-back European cabinet with strong lows, very strong 
+highs, and deeply scooped mids appropriate for metal and heavy rock.
+
+Pawnshop 1 x 8
+
+A single 8” speaker cabinet that has a strong low-end punch.
+
+Direct
+
+This option bypasses the speaker emulation section.
+
+ Tip: A creative sound design option is to choose Direct from the Cabinet pop-up menu, 
+
+insert Space Designer in the next free effect slot, then load one of the “warped” speaker 
+impulse responses.
+
+19
+
+Logic Pro Effects for MacBuild a custom Amp Designer combo in Logic Pro for Mac
+
+You can use one of the default models or you can create your own hybrid of different 
+amplifiers, cabinets, and so on. You create your own by using the Amp, Cabinet, and Mic 
+pop-up menus, located at the bottom of the window, as well as the EQ pop-up menu.
+
+Note: If you create your own hybrid amp combo, you can use the Settings pop-up menu to 
+save it as a setting file, which also includes any parameter changes you have made.
+
+Choose an Amp Designer amplifier
+
+• 
+
+In Logic Pro, choose an amplifier from the Amp pop-up menu. See Amp Designer 
+models for details on the characteristics of each amplifier type.
+
+Choose an Amp Designer cabinet
+
+Cabinets have a huge impact on the character of a guitar sound (see Amp Designer 
+cabinets).
+
+Whereas certain amplifier and cabinet pairings have been popular for decades, departing 
+from them can be an effective way to create fresh-sounding tones. For example, most 
+players automatically associate British heads with 4 x 12” cabinets. Amp Designer lets you 
+drive a small speaker with a powerful head, or pair a tiny amp with a 4 x 12” cabinet. You 
+can experiment with random amplifier and cabinet combinations, but you can also make 
+an educated guess about nontraditional combinations by considering the variables that 
+determine the “sound” of the cabinet.
+
+• 
+
+In Logic Pro, choose a cabinet from the Cabinet pop-up menu. Use the following 
+considerations to guide your decision:
+•  Combos or Stacks: Combo amps include both an amplifier and speakers in a single 
+enclosure. These usually have an open back, so the sound resonates in multiple 
+directions. The resulting sound is open—with bright, airy highs and a spacious 
+sound. Amplifier stacks consist of an amplifier head, with the speakers in a separate 
+cabinet. These cabinets generally have a closed back and project the sound forward 
+in a tight, focused beam. They tend to sound more powerful than open-back 
+cabinets, and typically have a tighter low-end response at the expense of some 
+high-end transparency.
+
+20
+
+Logic Pro Effects for Mac
