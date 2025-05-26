@@ -1,0 +1,171 @@
+Name,Manufacturer,Type
+Adaptive Limiter,Logic,effect
+Alchemy,Logic,instrument
+Amp Designer,Logic,effect
+Arpeggiator,Logic,MIDI plug-in
+AUAudioFilePlayer,Apple,generator
+AUBandpass,Apple,effect
+AUDelay,Apple,effect
+AUDistortion,Apple,effect
+AUDynamics Processor,Apple,effect
+AUFilter,Apple,effect
+AUGraphicEQ,Apple,effect
+AUHigh Shelf Filter,Apple,effect
+AUHipass,Apple,effect
+AULowpass,Apple,effect
+AULowShelf Filter,Apple,effect
+AUMatrix Reverb,Apple,effect
+AUMIDISynth,Apple,instrument
+AUMultibandCompressor,Apple,effect
+AUNBandEQ,Apple,effect
+AUNetReceive,Apple,generator
+AUNetSend,Apple,effect
+AUNewPitch,Apple,effect
+AUParametricEQ,Apple,effect
+AUPeakLimiter,Apple,effect
+AUPitch,Apple,effect
+AUReverb2,Apple,effect
+AURogerBeep,Apple,effect
+AURound Trip AAC,Apple,effect
+AUSampleDelay,Apple,effect
+AUSampler,Apple,instrument
+AUSoundisolation,Apple,effect
+Auto Sampler,Logic,effect
+Auto-Funk,Logic,effect
+AutoFilter,Logic,effect
+Bass Amp Designer,Logic,effect
+Beat Breaker,Logic,effect
+Binaural Post-Processing,Logic,effect
+Bitcrusher,Logic,effect
+Blue Echo,Logic,effect
+BPM Counter,Logic,effect
+Candy Fuzz,Logic,effect
+Channel EQ,Logic,effect
+Chord Trigger,Logic,MIDI plug-in
+Chorus,Logic,effect
+ChromaGlow,Logic,effect
+ChromaVerb,Logic,effect
+Classic Wah,Logic,effect
+Clip Distortion,Logic,effect
+Compressor,Logic,effect
+Correlation Meter,Logic,effect
+DeEsser 2,Logic,effect
+Delay Designer,Logic,effect
+Direction Mixer,Logic,effect
+Distortion,Logic,effect
+Distortion II,Logic,effect
+DLSMusicDevice,Apple,instrument
+Dolby Atmos,Logic,effect
+Double Dragon,Logic,effect
+Down Mixer,Logic,effect
+Dr. Octave,Logic,effect
+Drum Kit Designer,Logic,instrument
+Drum Synth,Logic,instrument
+Echo,Logic,effect
+EFM1,Logic,instrument
+Ensemble,Logic,effect
+Enveloper,Logic,effect
+EnVerb,Logic,effect
+ES E,Logic,instrument
+ES M,Logic,instrument
+ES P,Logic,instrument
+ES1,Logic,instrument
+ES2,Logic,instrument
+EVOC 20 Filterbank,Logic,effect
+EVOC 20 PolySynth,Logic,instrument
+EVOC 20 TrackOscillator,Logic,effect
+Exciter,Logic,effect
+Expander,Logic,effect
+External Instrument,Logic,instrument
+Flange Factory,Logic,effect
+Flanger,Logic,effect
+Fuzz Machine,Logic,effect
+Fuzz-Wah,Logic,effect
+Gain,Logic,effect
+Guitar Amp Designer,Logic,effect
+Happy Face Fuzz,Logic,effect
+Heavenly Chorus,Logic,effect
+Hi-Drive,Logic,effect
+I/O,Logic,effect
+Klopfgeist,Logic,instrument
+Legacy Cells,Logic,instrument
+Legacy EXS24,Logic,instrument
+Legacy Space Designer,Logic,effect
+Leveler,Logic,effect
+Limiter,Logic,effect
+Logic Remote,Apple,instrument
+Loudness Meter,Logic,effect
+M400,Logic,instrument
+Master,Logic,effect
+Mastering Assistant,Logic,effect
+Microphaser,Logic,effect
+Mod Machine,Logic,effect
+Noise Gate,Logic,effect
+North Pole,Logic,effect
+Pedalboard,Logic,effect
+Phaser,Logic,effect
+Pitch Correction,Logic,effect
+Pitch Shifter,Logic,effect
+Pristine,Logic,effect
+Quadrature,Logic,effect
+Quick Sampler,Logic,instrument
+Re-Amplifier,Logic,effect
+Remix FX,Logic,effect
+Resonator,Logic,effect
+Retouch,Logic,effect
+Retro Synth,Logic,instrument
+Reverb,Logic,effect
+Reverb G,Logic,effect
+Reverb Gated,Logic,effect
+Reverb Space,Logic,effect
+Reverser,Logic,effect
+Rhythm Machine,Logic,MIDI plug-in
+Rip,Logic,effect
+Robotic Talk Box,Logic,effect
+Rotary Speaker,Logic,effect
+Sampler,Logic,instrument
+ScratchPad,Logic,effect
+Sculpting Filter,Logic,effect
+Sharpen,Logic,effect
+Smart Controls,Logic,effect
+Smart Limiter,Logic,effect
+Sound Blaster,Logic,effect
+Sound Breaker,Logic,effect
+Space Designer,Logic,effect
+Spectral Gate,Logic,effect
+Spectral Pitch,Logic,effect
+Spectrafly,Logic,effect
+Spectrum Analyzer,Logic,effect
+Spring Reverb,Logic,effect
+Stereo Delay,Logic,effect
+Stereo Ensemble,Logic,effect
+Stereo Spread,Logic,effect
+Summing,Logic,effect
+Surround Balancer,Logic,effect
+Surround Compressor,Logic,effect
+Surround Panner,Logic,effect
+Synth Drum,Logic,instrument
+Tape Delay,Logic,effect
+Test Oscillator,Logic,instrument
+Three-Band EQ,Logic,effect
+Time Machine,Logic,effect
+TQ Analyzer,Logic,effect
+Transformer,Logic,effect
+Transient Shaper,Logic,effect
+Tremelo,Logic,effect
+Tremolo,Logic,effect
+Tube EQ,Logic,effect
+Tuner,Logic,effect
+Twin Reverb,Logic,effect
+VST2i,Logic,instrument
+Velocity Processor,Logic,MIDI plug-in
+Vintage B3,Logic,instrument
+Vintage Clav,Logic,instrument
+Vintage Console EQ,Logic,effect
+Vintage Drive,Logic,effect
+Vintage Electric Piano,Logic,instrument
+Vintage -Graphic EQ,Logic,effect
+Vintage Mellotron,Logic,instrument
+Vintage Tube EQ,Logic,effect
+Vocal Transformer,Logic,effect
+Wham,Logic,effect
