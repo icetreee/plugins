@@ -1,0 +1,96 @@
+Effect:
+  Dynamics:
+    - Compressors
+    - Limiters
+    - Gates & Expanders
+    - Transient Processors
+    - De-Essers
+    - Noise Reduction & Restoration
+  
+  EQ & Filters:
+    Equalizers:
+      - Character & Emulation EQ
+    Filters:
+      - Creative & Modulating Filters
+      - Resonance & Feedback Suppression
+  
+  Time-Based:
+    Reverb:
+      - Algorithmic & Plate Reverb
+      - Convolution & Spring Reverb
+    Delay:
+      - Standard & Creative Delay
+    Modulation:
+      - Chorus & Flanger
+      - Phaser & Tremolo
+      - Auto-Panners & Spacial Modulators
+  
+  Saturation & Distortion:
+    - Analog Emulation
+    - Amp & Cabinet Emulation
+    - Digital & Lo-Fi Distortion
+    - Exciters & Enhancers
+  
+  Creative & Special FX:
+    - Granular & Texture Generators
+    - Glitch & Stutter Effects
+    - Pitch & Formant Shifters
+    - Vocoders & Talkboxes
+  
+  Vocal & Dialog Processing:
+    - Pitch Correction & Tuning
+    - Vocal Thickening & Doubling
+    - De-Breath & Plosive Removal
+    - Vocal Synthesis & Effects
+  
+  Utility & Analysis:
+    Metering & Analysis:
+      - Loudness & Levels
+      - Spectrum & Phase Analysis
+    Other:
+      - Stereo Imaging & Widening
+      - Gain & Routing Tools
+      - Workflow & Management
+
+Instrument:
+  Synths:
+    - Analog & Subtractive Synths
+    - FM & Phase Modulation Synths
+    - Wavetable Synths
+    - Granular & Sample-Based Synths
+    - Physical Modeling Synths
+    - Modular & Hybrid Synths
+  
+  Sampled Instruments:
+    Acoustic & Orchestral:
+      - Strings, Brass, Woodwinds
+      - Piano, Keys & Mallets
+      - Guitars, Bass & Plucked
+      - Drums & Percussion
+    Electronic & Synthetic Samples:
+      - Drum Machines & Electronic Kits
+      - Vintage & Modern Electronic Instruments
+  
+  Specialized & Unique Instruments:
+    - Bass & Low-End Instruments
+    - Pad & Ambient Instruments
+    - Arpeggiated & Sequenced Instruments
+    - World & Ethnic Instruments
+    - Generative & Algorithmic Instruments
+
+Generator:
+  - Test Tones & Noise Generators
+  - Impulse Responses & Resonators
+  - Silent & Pass-Through Generators
+
+MIDI Plug-In:
+  - Arpeggiators & Step Sequencers
+  - Chord & Scale Tools
+  - Humanization & Performance Tools
+  - Quantization & Timing Tools
+  - MIDI Processors & Transformers
+
+MIDI-Controlled Effect:
+  - Parameter & Macro Control
+  - Sidechain & Ducking Tools
+  - MIDI-Triggered Creative FX
