@@ -1,0 +1,215 @@
+Name,Manufacturer,Type,Level 2,Level 3,Level 4
+Adaptive Limiter,Logic,effect,DYNAMICS,Limiters,
+Alchemy,Logic,instrument,SYNTHS,Granular & Sample-Based Synths,
+Amp Designer,Logic,effect,SATURATION & DISTORTION,Amp & Cabinet Emulation,
+Arpeggiator,Logic,MIDI plug-in,MIDI EFFECTS,ARPEGGIATORS & STEP SEQUENCERS,
+AUAudioFilePlayer,Apple,generator,GENERATORS,,,
+AUBandpass,Apple,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+AUDelay,Apple,effect,TIME-BASED,Delay,Standard & Creative Delay
+AUDistortion,Apple,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+AUDynamics Processor,Apple,effect,DYNAMICS,Compressors,
+AUFilter,Apple,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+AUGraphicEQ,Apple,effect,EQ & FILTERS,Equalizers,,
+AUHigh Shelf Filter,Apple,effect,EQ & FILTERS,Equalizers,,
+AUHipass,Apple,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+AULowpass,Apple,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+AULowShelf Filter,Apple,effect,EQ & FILTERS,Equalizers,,
+AUMatrix Reverb,Apple,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb
+AUMIDISynth,Apple,instrument,SYNTHS,Analog & Subtractive Synths,,
+AUNetSend,Apple,effect,UTILITY & ANALYSIS,Gain & Routing Tools,,
+AUNetReceive,Apple,effect,UTILITY & ANALYSIS,Gain & Routing Tools,,
+AURandom,Apple,MIDI plug-in,MIDI EFFECTS,HUMANIZATION & PERFORMANCE TOOLS,,
+AURingMod,Apple,effect,TIME-BASED,Modulation,Phaser & Tremolo
+AUSampleDelay,Apple,effect,TIME-BASED,Delay,Standard & Creative Delay
+AUSpatialMixer,Apple,effect,UTILITY & ANALYSIS,Stereo Imaging & Widening,,
+AUScheduledSoundPlayer,Apple,generator,GENERATORS,,,
+AUSoundfontPlayer,Apple,generator,GENERATORS,,,
+AUTeapotUnit,Apple,effect,CREATIVE & SPECIAL FX,,,
+AUThruConnection,Apple,effect,UTILITY & ANALYSIS,Gain & Routing Tools,,
+AUVariSpeed,Apple,effect,TIME-BASED,Standard & Creative Delay,,
+Autofilter,Logic,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+Autopanner,Logic,effect,TIME-BASED,Modulation,Auto-Panners & Spacial Modulators
+AVerb,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb 
+Bass Amp Designer,Logic,effect,SATURATION & DISTORTION,Amp & Cabinet Emulation,
+Beat Breaker,Logic,effect,CREATIVE & SPECIAL FX,Glitch & Stutter Effects,
+Binaural Post-Processing,Logic,effect,UTILITY & ANALYSIS,Stereo Imaging & Widening,
+Bitcrusher,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Blue Echo,Logic,effect,TIME-BASED,Delay,Standard & Creative Delay
+BPM Counter,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,Tuning & Tempo
+Candy Fuzz,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Channel EQ,Logic,effect,EQ & FILTERS,Equalizers,,
+Chord Trigger,Logic,MIDI plug-in,MIDI EFFECTS,CHORD & SCALE TOOLS,,
+Chorus,Logic,effect,TIME-BASED,Modulation,Chorus & Flanger
+ChromaGlow,Logic,effect,SATURATION & DISTORTION,Exciters & Enhancers,
+ChromaVerb,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb
+Classic Wah,Logic,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+Clip Distortion,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Compressor,Logic,effect,DYNAMICS,Compressors,
+Correlation Meter,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,Spectrum & Phase Analysis
+DeEsser 2,Logic,effect,DYNAMICS,De-essers,
+Delay Designer,Logic,effect,TIME-BASED,Delay,Standard & Creative Delay
+Denoiser,Logic,effect,DYNAMICS,Noise Reduction & Restoration, 
+Direction Mixer,Logic,effect,UTILITY & ANALYSIS,Stereo Imaging & Widening,
+Distortion,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Distortion II,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+DJ EQ,Logic,effect,EQ & FILTERS,Equalizers,,
+DLSMusicDevice,Apple,instrument,SAMPLED INSTRUMENTS,,,
+Dolby Atmos,Logic,effect,UTILITY & ANALYSIS,Stereo Imaging & Widening,,
+Double Dragon,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,,
+Down Mixer,Logic,effect,UTILITY & ANALYSIS,Gain & Routing Tools,,
+Dr. Octave,Logic,effect,CREATIVE & SPECIAL FX,Pitch & Formant Shifters,,
+Drum Kit Designer,Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Drum Machines & Electronic Kits
+Drum Synth,Logic,instrument,SYNTHS,Modular & Hybrid Synths,,
+Ducker,Logic,effect,DYNAMICS,Gates & Expanders, 
+Echo,Logic,effect,TIME-BASED,Delay,Standard & Creative Delay
+EFM1,Logic,instrument,SYNTHS,FM & Phase Modulation Synths,,
+Ensemble,Logic,effect,TIME-BASED,Modulation,Chorus & Flanger 
+Enveloper,Logic,effect,DYNAMICS,Transient Processors,
+EnVerb,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb
+EQ,Logic,effect,EQ & FILTERS,Equalizers,, 
+ES E,Logic,instrument,SYNTHS,Analog & Subtractive Synths,,
+ES M,Logic,instrument,SYNTHS,Analog & Subtractive Synths,,
+ES P,Logic,instrument,SYNTHS,Analog & Subtractive Synths,,
+ES1,Logic,instrument,SYNTHS,Analog & Subtractive Synths,,
+ES2,Logic,instrument,SYNTHS,Analog & Subtractive Synths,,
+EVOC 20 Filterbank,Logic,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+EVOC 20 PolySynth,Logic,instrument,SPECIALIZED & UNIQUE INSTRUMENTS,Generative & Algorithmic Instruments,,
+EVOC 20 TrackOscillator,Logic,effect,CREATIVE & SPECIAL FX,Vocoders & Talkboxes,
+Exciter,Logic,effect,SATURATION & DISTORTION,Exciters & Enhancers,
+Expander,Logic,effect,DYNAMICS,Gates & Expanders,
+External Instrument,Logic,instrument,SPECIALIZED & UNIQUE INSTRUMENTS,Utility Instruments,,
+Flange Factory,Logic,effect,TIME-BASED,Modulation,Chorus & Flanger
+Flanger,Logic,effect,TIME-BASED,Modulation,Chorus & Flanger
+Fuzz Machine,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Fuzz-Wah,Logic,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+Gain,Logic,effect,UTILITY & ANALYSIS,Gain & Routing Tools,
+GoldVerb,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb 
+Grooveshifter,Logic,effect,CREATIVE & SPECIAL FX,Glitch & Stutter Effects, 
+Guitar Amp Designer,Logic,effect,SATURATION & DISTORTION,Amp & Cabinet Emulation,
+Guitar Amp Pro,Logic,effect,SATURATION & DISTORTION,Amp & Cabinet Emulation, 
+Happy Face Fuzz,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Heavenly Chorus,Logic,effect,TIME-BASED,Modulation,Chorus & Flanger
+Hi-Drive,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+I/O,Logic,effect,UTILITY & ANALYSIS,Gain & Routing Tools,
+Klopfgeist,Logic,instrument,SPECIALIZED & UNIQUE INSTRUMENTS,Utility Instruments,,
+Legacy Cells,Logic,instrument,SAMPLED INSTRUMENTS,,,
+Legacy EXS24,Logic,instrument,SAMPLED INSTRUMENTS,,,
+Legacy Space Designer,Logic,effect,TIME-BASED,Reverb,Convolution & Spring Reverb
+Legacy Bass,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Guitars, Bass & Plucked
+Legacy Church Organ,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Piano, Keys & Mallets
+Legacy Electric Clav(inet),Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Vintage & Modern Electronic Instruments
+Legacy E Piano,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Piano, Keys & Mallets
+Legacy EP,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Piano, Keys & Mallets
+Legacy Phat Analog,Logic,instrument,SYNTHS,Modular & Hybrid Synths,,
+Legacy Phat FX,Logic,instrument,SYNTHS,Modular & Hybrid Synths,,
+Legacy Retro Synth,Logic,instrument,SYNTHS,Modular & Hybrid Synths,,
+Legacy Sampler,Logic,instrument,SYNTHS,Granular & Sample-Based Synths,,
+Legacy Sculpture,Logic,instrument,SYNTHS,Physical Modeling Synths,,
+Legacy Synth,Logic,instrument,SYNTHS,Analog & Subtractive Synths,,
+Legacy Tuned Percussion,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Drums & Percussion
+Legacy Tonewheel Organ,Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Vintage & Modern Electronic Instruments
+Legacy Woodwind,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Strings, Brass, Woodwinds
+Leveler,Logic,effect,DYNAMICS,Compressors,
+Limiter,Logic,effect,DYNAMICS,Limiters,
+Logic Remote,Apple,instrument,SPECIALIZED & UNIQUE INSTRUMENTS,,,
+Loudness Meter,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,Loudness & Levels
+M400,Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Vintage & Modern Electronic Instruments
+Master,Logic,effect,UTILITY & ANALYSIS,Gain & Routing Tools,
+Mastering Assistant,Logic,effect,UTILITY & ANALYSIS,Workflow & Management,
+Microphaser,Logic,effect,TIME-BASED,Modulation,Phaser & Tremolo
+Mod Machine,Logic,effect,TIME-BASED,Modulation,,
+Modifier,Logic,MIDI plug-in,MIDI EFFECTS,MIDI PROCESSORS & TRANSFORMERS,,
+Modulator,Logic,MIDI plug-in,MIDI EFFECTS,MIDI PROCESSORS & TRANSFORMERS,,
+MultiMeter,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,,
+Multipressor,Logic,effect,DYNAMICS,Compressors,
+Noise Gate,Logic,effect,DYNAMICS,Gates & Expanders,
+North Pole,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Note Repeater,Logic,MIDI plug-in,MIDI EFFECTS,QUANTIZATION & TIMING TOOLS,,
+Pedalboard,Logic,effect,SATURATION & DISTORTION,Amp & Cabinet Emulation,
+Phaser,Logic,effect,TIME-BASED,Modulation,Phaser & Tremolo
+Phat FX,Logic,effect,CREATIVE & SPECIAL FX,,,
+Pitch Correction,Logic,effect,VOCAL & DIALOG PROCESSING,Pitch Correction & Tuning,
+Pitch Shifter,Logic,effect,CREATIVE & SPECIAL FX,Pitch & Formant Shifters,
+PlatinumVerb,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb 
+Pristine,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Quantec Room Simulator,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb 
+Quadrature,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Quick Sampler,Logic,instrument,SAMPLED INSTRUMENTS,,,
+Randomizer,Logic,MIDI plug-in,MIDI EFFECTS,HUMANIZATION & PERFORMANCE TOOLS,,
+Re-Amplifier,Logic,effect,SATURATION & DISTORTION,Amp & Cabinet Emulation,
+Record MIDI to Track,Logic,MIDI plug-in,MIDI EFFECTS,Utility MIDI Tools,,
+Remix FX,Logic,effect,CREATIVE & SPECIAL FX,Glitch & Stutter Effects,
+Resonator,Logic,effect,CREATIVE & SPECIAL FX,,,
+Retouch,Logic,effect,DYNAMICS,Noise Reduction & Restoration,
+Retro Synth,Logic,instrument,SYNTHS,Modular & Hybrid Synths,,
+Reverb,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb
+Reverb G,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb
+Reverb Gated,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb
+Reverb Space,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb
+Reverser,Logic,effect,TIME-BASED,Delay,Standard & Creative Delay
+Rhythm Machine,Logic,MIDI plug-in,MIDI EFFECTS,ARPEGGIATORS & STEP SEQUENCERS,,
+Rip,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Robotic Talk Box,Logic,effect,CREATIVE & SPECIAL FX,Vocoders & Talkboxes,
+Rotary Speaker,Logic,effect,TIME-BASED,Modulation,Auto-Panners & Spacial Modulators 
+Sampler,Logic,instrument,SAMPLED INSTRUMENTS,,,
+Scanner Vibrato,Logic,effect,TIME-BASED,Modulation,Phaser & Tremolo 
+ScratchPad,Logic,effect,CREATIVE & SPECIAL FX,Glitch & Stutter Effects,
+Scripter,Logic,MIDI plug-in,MIDI EFFECTS,Utility MIDI Tools,,
+Sculpting Filter,Logic,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+Sculpture,Logic,instrument,SYNTHS,Physical Modeling Synths,,
+Sharpen,Logic,effect,SATURATION & DISTORTION,Exciters & Enhancers,
+Silver Compressor,Logic,effect,DYNAMICS,Compressors, 
+Silver Gate,Logic,effect,DYNAMICS,Gates & Expanders, 
+SilverVerb,Logic,effect,TIME-BASED,Reverb,Algorithmic & Plate Reverb 
+Smart Controls,Logic,effect,UTILITY & ANALYSIS,Workflow & Management,
+Smart Limiter,Logic,effect,DYNAMICS,Limiters,
+Sound Blaster,Logic,effect,SATURATION & DISTORTION,Digital & Lo-Fi Distortion,
+Sound Breaker,Logic,effect,CREATIVE & SPECIAL FX,Glitch & Stutter Effects,
+Space Designer,Logic,effect,TIME-BASED,Reverb,Convolution & Spring Reverb
+Speech Enhancer,Logic,effect,VOCAL & DIALOG PROCESSING,Vocal & Dialog Processing,, 
+Spectral Gate,Logic,effect,EQ & FILTERS,Filters,Creative & Modulating Filters
+Spectral Pitch,Logic,effect,CREATIVE & SPECIAL FX,Pitch & Formant Shifters,
+Spectrafly,Logic,effect,CREATIVE & SPECIAL FX,,,
+Spectrum Analyzer,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,Spectrum & Phase Analysis
+Spring Reverb,Logic,effect,TIME-BASED,Reverb,Convolution & Spring Reverb
+Stereo Delay,Logic,effect,TIME-BASED,Delay,Standard & Creative Delay
+Stereo Ensemble,Logic,effect,TIME-BASED,Modulation,Chorus & Flanger
+Stereo Spread,Logic,effect,UTILITY & ANALYSIS,Stereo Imaging & Widening,
+Step FX,Logic,effect,CREATIVE & SPECIAL FX,Glitch & Stutter Effects, 
+Studio Bass,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Guitars, Bass & Plucked
+Studio Horns,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Strings, Brass, Woodwinds
+Studio Piano,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Piano, Keys & Mallets
+Studio Strings,Logic,instrument,SAMPLED INSTRUMENTS,Acoustic & Orchestral,Strings, Brass, Woodwinds
+SubBass,Logic,effect,SATURATION & DISTORTION,Exciters & Enhancers,
+Summing,Logic,effect,UTILITY & ANALYSIS,Gain & Routing Tools,,
+Surround Balancer,Logic,effect,UTILITY & ANALYSIS,Stereo Imaging & Widening,,
+Surround Compressor,Logic,effect,DYNAMICS,Compressors,
+Surround MultiMeter,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,,
+Surround Panner,Logic,effect,UTILITY & ANALYSIS,Stereo Imaging & Widening,,
+Synth Drum,Logic,instrument,SYNTHS,Modular & Hybrid Synths,,
+Tape Delay,Logic,effect,TIME-BASED,Delay,Standard & Creative Delay
+Test Oscillator,Logic,instrument,SPECIALIZED & UNIQUE INSTRUMENTS,Utility Instruments,,
+Three-Band EQ,Logic,effect,EQ & FILTERS,Equalizers,,
+Time Machine,Logic,effect,CREATIVE & SPECIAL FX,Glitch & Stutter Effects,,
+TQ Analyzer,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,Spectrum & Phase Analysis
+Transformer,Logic,effect,CREATIVE & SPECIAL FX,Pitch & Formant Shifters,,
+Transient Shaper,Logic,effect,DYNAMICS,Transient Processors,
+Tremelo,Logic,effect,TIME-BASED,Modulation,Phaser & Tremolo
+Tremolo,Logic,effect,TIME-BASED,Modulation,Phaser & Tremolo 
+Tube EQ,Logic,effect,EQ & FILTERS,Equalizers,Character & Emulation EQ
+Tuner,Logic,effect,UTILITY & ANALYSIS,Metering & Analysis,Tuning & Tempo
+Twin Reverb,Logic,effect,SATURATION & DISTORTION,Amp & Cabinet Emulation,
+Transposer,Logic,MIDI plug-in,MIDI EFFECTS,CHORD & SCALE TOOLS,,
+Ultrabeat,Logic,instrument,SYNTHS,Modular & Hybrid Synths,,
+VST2i,Logic,instrument,SPECIALIZED & UNIQUE INSTRUMENTS,Utility Instruments,,
+Velocity Processor,Logic,MIDI plug-in,MIDI EFFECTS,HUMANIZATION & PERFORMANCE TOOLS,,
+Vintage B3,Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Vintage & Modern Electronic Instruments
+Vintage Clav,Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Vintage & Modern Electronic Instruments
+Vintage Console EQ,Logic,effect,EQ & FILTERS,Equalizers,Character & Emulation EQ
+Vintage Drive,Logic,effect,SATURATION & DISTORTION,Analog Emulation,
+Vintage Electric Piano,Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Vintage & Modern Electronic Instruments
+Vintage -Graphic EQ,Logic,effect,EQ & FILTERS,Equalizers,Character & Emulation EQ
+Vintage Mellotron,Logic,instrument,SAMPLED INSTRUMENTS,Electronic & Synthetic Samples,Vintage & Modern Electronic Instruments
+Vintage Tube EQ,Logic,effect,EQ & FILTERS,Equalizers,Character & Emulation EQ
+Vocal Transformer,Logic,effect,VOCAL & DIALOG PROCESSING,Vocal Synthesis & Effects,
+Wham,Logic,effect,CREATIVE & SPECIAL FX,Pitch & Formant Shifters,
