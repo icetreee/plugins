@@ -1,0 +1,3858 @@
+[
+  {
+    "name": "Plugin Alliance: bx_distorange",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxdo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_distorange.component"
+  },
+  {
+    "name": "Native Instruments: Guitar Rig 6 FX",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$R",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Guitar Rig 6.component"
+  },
+  {
+    "name": "Native Instruments: Guitar Rig 6 MFX",
+    "manufacturer": "-NI-",
+    "type": "aumf",
+    "subtype": "Ni$R",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Guitar Rig 6.component"
+  },
+  {
+    "name": "A1AUDIO.de: A1StereoControl",
+    "manufacturer": "A1Au",
+    "type": "aufx",
+    "subtype": "A1Sc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/A1StereoControl.component"
+  },
+  {
+    "name": "chowdsp: BYOD",
+    "manufacturer": "Chow",
+    "type": "aufx",
+    "subtype": "Dqu0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BYOD.component"
+  },
+  {
+    "name": "Minimal: Rift Feedback Lite",
+    "manufacturer": "Mini",
+    "type": "aumf",
+    "subtype": "RFEL",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Rift Feedback Lite.component"
+  },
+  {
+    "name": "Venn Audio: Free EQ",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Freq",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free EQ.component"
+  },
+  {
+    "name": "audiolatry: FunkBass 3",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "R`zp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/FunkBass 3.component"
+  },
+  {
+    "name": "Audiomodern: Soundbox",
+    "manufacturer": "Aumd",
+    "type": "aumu",
+    "subtype": "Amsb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Soundbox.component"
+  },
+  {
+    "name": "Plugin Alliance: Unfiltered Audio lo-fi-af",
+    "manufacturer": "UnAu",
+    "type": "aufx",
+    "subtype": "uALo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Unfiltered Audio lo-fi-af.component"
+  },
+  {
+    "name": "MeldaProduction: MSpectralPan",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MSpP",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MSpectralPan.component"
+  },
+  {
+    "name": "Kilohearts: kHs Distortion",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksdt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Distortion.component"
+  },
+  {
+    "name": "unplugred: Magic Carpet",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Mgct",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Magic Carpet.component"
+  },
+  {
+    "name": "Safari Pedals: Gorilla Drive",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "GRLD",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Gorilla Drive.component"
+  },
+  {
+    "name": "Native Instruments: Driver",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$=",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Driver.component"
+  },
+  {
+    "name": "Sixth Sample: Deelay",
+    "manufacturer": "Manu",
+    "type": "aufx",
+    "subtype": "Effy",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Deelay.component"
+  },
+  {
+    "name": "unplugred: Plastic Funeral",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Vctz",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Plastic Funeral.component"
+  },
+  {
+    "name": "D10Labo: MSyn1mini",
+    "manufacturer": "Dlab",
+    "type": "aumu",
+    "subtype": "Nadq",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MSyn1mini.component"
+  },
+  {
+    "name": "CWITEC: TX16Wx Software Sampler",
+    "manufacturer": "CWIT",
+    "type": "aumu",
+    "subtype": "TX16",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TX16Wx.component"
+  },
+  {
+    "name": "Lese: Codec",
+    "manufacturer": "Lese",
+    "type": "aufx",
+    "subtype": "Cdec",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/codec.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_blackdist2",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxbl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_blackdist2.component"
+  },
+  {
+    "name": "unplugred: CRMBL",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Crmb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/CRMBL.component"
+  },
+  {
+    "name": "VZtec: Malibu",
+    "manufacturer": "Vztc",
+    "type": "aufx",
+    "subtype": "Mlbu",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Malibu.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Keyz v2",
+    "manufacturer": "QKjx",
+    "type": "aumu",
+    "subtype": "GH3D",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Keyz v2.component"
+  },
+  {
+    "name": "Rob Papen: RP-PAN",
+    "manufacturer": "RPCX",
+    "type": "aumf",
+    "subtype": "RpPA",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RP-PAN.component"
+  },
+  {
+    "name": "Bedroom Producers Blog: Dirty Filter Plus",
+    "manufacturer": "Bpr0",
+    "type": "aufx",
+    "subtype": "D2rt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DirtyFilterPlus.component"
+  },
+  {
+    "name": "Native Instruments: Flair",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$K",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Flair.component"
+  },
+  {
+    "name": "Audified: ToneKnob Saturator",
+    "manufacturer": "AuFd",
+    "type": "aufx",
+    "subtype": "TkSa",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ToneKnob Saturator.component"
+  },
+  {
+    "name": "Ample Sound: Ample Percussion Cloudrum",
+    "manufacturer": "Apsd",
+    "type": "aumu",
+    "subtype": "Apcd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/APC.component"
+  },
+  {
+    "name": "Dart: Plateau 2",
+    "manufacturer": "Acme",
+    "type": "aufx",
+    "subtype": "Wl8a",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Plateau2.component"
+  },
+  {
+    "name": "Cymatics: Cymatics Diablo Lite",
+    "manufacturer": "Cyma",
+    "type": "aufx",
+    "subtype": "CydL",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cymatics Diablo Lite.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Free Amp",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "nylo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Free Amp AU.component"
+  },
+  {
+    "name": "Kilohearts: kHs Frequency Shifter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksfs",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Frequency Shifter.component"
+  },
+  {
+    "name": "ZEEK: STFU",
+    "manufacturer": "ZEEK",
+    "type": "aumf",
+    "subtype": "H1E9",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/STFU.component"
+  },
+  {
+    "name": "Kilohearts: kHs Limiter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kslt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Limiter.component"
+  },
+  {
+    "name": "u-he: Protoverb",
+    "manufacturer": "UHfX",
+    "type": "aumf",
+    "subtype": "uhPV",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Protoverb.component"
+  },
+  {
+    "name": "MeldaProduction: MBitFun",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MBiF",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MBitFun.component"
+  },
+  {
+    "name": "Sampleson: CollaB3-V2-FREE",
+    "manufacturer": "Samp",
+    "type": "aumu",
+    "subtype": "Colf",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/CollaB3-V2-FREE.component"
+  },
+  {
+    "name": "audiolatry: Drum8 2",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "Uu4l",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Drum8 2.component"
+  },
+  {
+    "name": "Denise Audio: Slappy",
+    "manufacturer": "D3na",
+    "type": "aufx",
+    "subtype": "S4pi",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Slappy.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Flanger 3 (Stereo)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "m726",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Flanger 3 AU(Stereo).component"
+  },
+  {
+    "name": "Kilohearts: kHs Flanger",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksfl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Flanger.component"
+  },
+  {
+    "name": "BABY Audio: Magic Dice",
+    "manufacturer": "B4by",
+    "type": "aufx",
+    "subtype": "D1ce",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Magic Dice.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_subfilter",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxsf",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_subfilter.component"
+  },
+  {
+    "name": "Fuse Audio Labs: VPRE-72",
+    "manufacturer": "FsAu",
+    "type": "aufx",
+    "subtype": "FV72",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/VPRE-72.component"
+  },
+  {
+    "name": "Apisonic Labs: Speedrum lite",
+    "manufacturer": "ApLa",
+    "type": "aumu",
+    "subtype": "AlSp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/speedrum_lite.component"
+  },
+  {
+    "name": "Tilr: GATE-12",
+    "manufacturer": "Tilr",
+    "type": "aumf",
+    "subtype": "gt12",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/GATE-12.component"
+  },
+  {
+    "name": "Native Instruments: Kontakt 8",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "NiK8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Kontakt 8.component"
+  },
+  {
+    "name": "unplugred: Diet Audio",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Diet",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Diet Audio.component"
+  },
+  {
+    "name": "Minimal: Hybrid Filter",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "HYFL",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Hybrid Filter.component"
+  },
+  {
+    "name": "VSL: Vienna Ensemble",
+    "manufacturer": "VSLE",
+    "type": "aumu",
+    "subtype": "VSLE",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Vienna Ensemble.component"
+  },
+  {
+    "name": "VSL: Vienna Synchron Player",
+    "manufacturer": "VSLS",
+    "type": "aumu",
+    "subtype": "VIN0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Vienna Synchron Player.component"
+  },
+  {
+    "name": "BLEASS: BLEASS Monolit",
+    "manufacturer": "Blss",
+    "type": "aumu",
+    "subtype": "Mnlt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BLEASS Monolit.component"
+  },
+  {
+    "name": "Kilohearts: kHs Transient Shaper",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kstr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Transient Shaper.component"
+  },
+  {
+    "name": "Valhalla DSP, LLC: ValhallaFreqEcho",
+    "manufacturer": "oDin",
+    "type": "aufx",
+    "subtype": "FqEh",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ValhallaFreqEcho.component"
+  },
+  {
+    "name": "MIA Laboratories: MIAFat",
+    "manufacturer": "P314",
+    "type": "aufx",
+    "subtype": "MF01",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MIAFat.component"
+  },
+  {
+    "name": "Native Instruments: Phasis",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$J",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Phasis.component"
+  },
+  {
+    "name": "u-he: ZebraHZ",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "SMHZ",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ZebraHZ.component"
+  },
+  {
+    "name": "Minimal: Rift Filter Lite",
+    "manufacturer": "Mini",
+    "type": "aumf",
+    "subtype": "RFLT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Rift Filter Lite.component"
+  },
+  {
+    "name": "jameshball: osci-render",
+    "manufacturer": "Manu",
+    "type": "aumf",
+    "subtype": "Hh2e",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/osci-render.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_oberhausen",
+    "manufacturer": "Brwx",
+    "type": "aumu",
+    "subtype": "bxOS",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_oberhausen.component"
+  },
+  {
+    "name": "Safari Pedals: Sun Bear Bus Compressor",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Snbc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Sun Bear Bus Compressor.component"
+  },
+  {
+    "name": "Plogue Art et Technologie: sforzando",
+    "manufacturer": "PLOG",
+    "type": "aumu",
+    "subtype": "PLGQ",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/sforzando.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Triple EQ 4 (Stereo)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "8656",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Triple EQ 4 AU(Stereo).component"
+  },
+  {
+    "name": "Cymatics: Cymatics Deja Vu",
+    "manufacturer": "Cyma",
+    "type": "aufx",
+    "subtype": "Cydv",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cymatics Deja vu.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_solo",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxsl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_solo.component"
+  },
+  {
+    "name": "audiolatry: RetroGrit Lite",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "`$tA",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RetroGrit Lite.component"
+  },
+  {
+    "name": "MeldaProduction: MRatio",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MRat",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MRatio.component"
+  },
+  {
+    "name": "unplugred: Red Bass",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Rdbs",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Red Bass.component"
+  },
+  {
+    "name": "unplugred: PNCH",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Pnch",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/PNCH.component"
+  },
+  {
+    "name": "plugdata: plugdata",
+    "manufacturer": "PlDt",
+    "type": "aumu",
+    "subtype": "PdIn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/plugdata.component"
+  },
+  {
+    "name": "MeldaProduction: MAGC",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "Magc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MAGC.component"
+  },
+  {
+    "name": "plugdata: plugdata-midi",
+    "manufacturer": "PlDt",
+    "type": "aumi",
+    "subtype": "PdMd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/plugdata-midi.component"
+  },
+  {
+    "name": "Native Instruments: Bite",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$M",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Bite.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Gain 3 (Stereo)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "3923",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Gain 3 AU(Stereo).component"
+  },
+  {
+    "name": "u-he: TripleCheese",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "cbSy",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TripleCheese.component"
+  },
+  {
+    "name": "Native Instruments: Transient Master",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$5",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Transient Master.component"
+  },
+  {
+    "name": "Dawesome: Zyklop",
+    "manufacturer": "Dwsm",
+    "type": "aumu",
+    "subtype": "Zyk1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zyklop.component"
+  },
+  {
+    "name": "Venn Audio: Free Gain",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frgn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Gain.component"
+  },
+  {
+    "name": "Soundly: Soundly Shape it",
+    "manufacturer": "Sdly",
+    "type": "aufx",
+    "subtype": "Shpt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ShapeIt.component"
+  },
+  {
+    "name": "Kilohearts: kHs 3-Band EQ",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksqe",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs 3-Band EQ.component"
+  },
+  {
+    "name": "AgusHardiman.TV: GOLDEN Piano v2.2022.08",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "YLg1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/GOLDEN Piano v2.2022.08.component"
+  },
+  {
+    "name": "Cherry Audio: Synthesizer Expander Module",
+    "manufacturer": "Chry",
+    "type": "aumu",
+    "subtype": "SEMo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Synthesizer Expander Module.component"
+  },
+  {
+    "name": "Antares: Auto-Tune Access",
+    "manufacturer": "Antr",
+    "type": "aufx",
+    "subtype": "ATac",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Auto-Tune Access.component"
+  },
+  {
+    "name": "Kilohearts: kHs Reverser",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksrr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Reverser.component"
+  },
+  {
+    "name": "MeldaProduction: MStereoExpander",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAea",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MStereoExpander.component"
+  },
+  {
+    "name": "Plugin Alliance: elysia niveau filter",
+    "manufacturer": "Elys",
+    "type": "aufx",
+    "subtype": "nvft",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/elysia niveau filter.component"
+  },
+  {
+    "name": "Kilohearts: kHs Haas",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksha",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Haas.component"
+  },
+  {
+    "name": "Synapse: Zampler-RX",
+    "manufacturer": "Syna",
+    "type": "aumu",
+    "subtype": "ZMPL",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zampler-RX.component"
+  },
+  {
+    "name": "Dada Life: Eternal Return",
+    "manufacturer": "TLDN",
+    "type": "aufx",
+    "subtype": "DLER",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Eternal Return.component"
+  },
+  {
+    "name": "Kilohearts: kHs Chorus",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksch",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Chorus.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Chorus 4 (Stereo)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "r049",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Chorus 4 AU(Stereo).component"
+  },
+  {
+    "name": "Bedroom Producers Blog: Cassette Drums",
+    "manufacturer": "(lgw",
+    "type": "aumu",
+    "subtype": "QJ6(",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cassette Drums.component"
+  },
+  {
+    "name": "iZotope: Ozone 11 Equalizer",
+    "manufacturer": "iZtp",
+    "type": "aufx",
+    "subtype": "ZAZU",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/iZOzone11EqualizerAUHook.component"
+  },
+  {
+    "name": "audiolatry: Easy Strings",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "KVx5",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Easy Strings.component"
+  },
+  {
+    "name": "BABY Audio: Warp",
+    "manufacturer": "B4b1",
+    "type": "aufx",
+    "subtype": "Wrp1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Warp.component"
+  },
+  {
+    "name": "MeldaProduction: MRatioMB",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MRmb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MRatioMB.component"
+  },
+  {
+    "name": "Artists in DSP: Transpanner_2",
+    "manufacturer": "Alpc",
+    "type": "aufx",
+    "subtype": "R110",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Transpanner_2.component"
+  },
+  {
+    "name": "MeldaProduction: MRecorder",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MRec",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MRecorder.component"
+  },
+  {
+    "name": "Native Instruments: Massive X",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "Ni$H",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Massive X.component"
+  },
+  {
+    "name": "Monkwind: DrumWizard",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "DRWZ",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DrumWizard.component"
+  },
+  {
+    "name": "Diginoiz: Subdivine",
+    "manufacturer": "Dign",
+    "type": "aumu",
+    "subtype": "subd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Subdivine.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Phaser 3 (Mono)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "822x",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Phaser 3 AU(Mono).component"
+  },
+  {
+    "name": "Safari Pedals: Camel Strip",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "CMCH",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Camel Strip.component"
+  },
+  {
+    "name": "MeldaProduction: MConvolutionEZ",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MCez",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MConvolutionEZ.component"
+  },
+  {
+    "name": "SirenFX: NoisePalette",
+    "manufacturer": "SFXA",
+    "type": "aumu",
+    "subtype": "Sfnp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/NoisePalette.component"
+  },
+  {
+    "name": "audiolatry: Retromania Lite",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "Tzo2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Retromania Lite.component"
+  },
+  {
+    "name": "SoliderSound: S Pulser",
+    "manufacturer": "Soso",
+    "type": "aufx",
+    "subtype": "Spul",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/S Pulser.component"
+  },
+  {
+    "name": "Magenta: DDSP Synth",
+    "manufacturer": "Mage",
+    "type": "aumu",
+    "subtype": "Ranb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DDSP Synth.component"
+  },
+  {
+    "name": "Newfangled Audio: Pendulate",
+    "manufacturer": "Newf",
+    "type": "aumu",
+    "subtype": "pnd8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Pendulate.component"
+  },
+  {
+    "name": "Monkwind: EZPitch",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "EZP1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/EZPitch.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_shredspread",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxgm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_shredspread.component"
+  },
+  {
+    "name": "Minimal: Squash",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "SQSH",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Squash.component"
+  },
+  {
+    "name": "Samplab: Samplab",
+    "manufacturer": "Manu",
+    "type": "aumu",
+    "subtype": "Tsbc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Samplab.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_yellowdrive",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxyd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_yellowdrive.component"
+  },
+  {
+    "name": "audiolatry: RetroVibes 2 Lite",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "Lm3P",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RetroVibes 2 Lite.component"
+  },
+  {
+    "name": "Native Instruments: Guitar Rig 7 FX",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$T",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Guitar Rig 7.component"
+  },
+  {
+    "name": "Native Instruments: Guitar Rig 7 MFX",
+    "manufacturer": "-NI-",
+    "type": "aumf",
+    "subtype": "Ni$T",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Guitar Rig 7.component"
+  },
+  {
+    "name": "Audio Damage, Inc.: RoughRider3",
+    "manufacturer": "AuDa",
+    "type": "aufx",
+    "subtype": "RR30",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RoughRider3.component"
+  },
+  {
+    "name": "nthnblair: HALO_3DPAN",
+    "manufacturer": "NTHN",
+    "type": "aufx",
+    "subtype": "Halo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HALO_3DPAN.component"
+  },
+  {
+    "name": "HOFA: 4U Meter, Fader & MS-Pan",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hff1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA 4U Meter Fader & MS-Pan.component"
+  },
+  {
+    "name": "Ear Candy Technologies: Ruby",
+    "manufacturer": "Manu",
+    "type": "aufx",
+    "subtype": "Gc0p",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Ruby.component"
+  },
+  {
+    "name": "Frogmod Audio: greenAU",
+    "manufacturer": "Frog",
+    "type": "aumf",
+    "subtype": "def1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/greenAU.component"
+  },
+  {
+    "name": "Minimal: Current",
+    "manufacturer": "Mini",
+    "type": "aumu",
+    "subtype": "CURR",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Current.component"
+  },
+  {
+    "name": "MeldaProduction: MFlanger",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAE&",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MFlanger.component"
+  },
+  {
+    "name": "chowdsp: ChowPhaserMono",
+    "manufacturer": "Chow",
+    "type": "aufx",
+    "subtype": "Cph1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ChowPhaserMono.component"
+  },
+  {
+    "name": "Mellowmuse: EQ1A",
+    "manufacturer": "Mlmu",
+    "type": "aufx",
+    "subtype": "Eq1a",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/EQ1A.component"
+  },
+  {
+    "name": "Native Instruments: Solid EQ",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Solid EQ.component"
+  },
+  {
+    "name": "Venn Audio: Free Clip 2",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frc2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Clip 2.component"
+  },
+  {
+    "name": "Cableguys: PanCake 2",
+    "manufacturer": "Cabl",
+    "type": "aufx",
+    "subtype": "CGP1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/PanCake 2.component"
+  },
+  {
+    "name": "Frogmod Audio: buddies_v2",
+    "manufacturer": "Frog",
+    "type": "aumu",
+    "subtype": "budy",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/buddies_v2.component"
+  },
+  {
+    "name": "MNTRA: MNDALA 2",
+    "manufacturer": "Mnta",
+    "type": "aumu",
+    "subtype": "Mndd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MNDALA 2.component"
+  },
+  {
+    "name": "Safari Pedals: Flamingo Verb",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "FLMV",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Flamingo Verb.component"
+  },
+  {
+    "name": "Clark Plugins: Textures",
+    "manufacturer": "ClPl",
+    "type": "aufx",
+    "subtype": "Txtr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Textures.component"
+  },
+  {
+    "name": "Caelum Audio: Flux Mini 2",
+    "manufacturer": "CaeA",
+    "type": "aumf",
+    "subtype": "FlM2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Flux Mini 2.component"
+  },
+  {
+    "name": "polydigm: Klimper Main",
+    "manufacturer": "Pdgm",
+    "type": "aumi",
+    "subtype": "KlpM",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Klimper Main.component"
+  },
+  {
+    "name": "Strange Audio: GReverb",
+    "manufacturer": "Grvb",
+    "type": "aufx",
+    "subtype": "RC01",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/GReverb.component"
+  },
+  {
+    "name": "MIA Laboratories: MIAThin",
+    "manufacturer": "P314",
+    "type": "aufx",
+    "subtype": "MT01",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MIAThin.component"
+  },
+  {
+    "name": "audiolatry: Drumtastic",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "CB2o",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Drumtastic.component"
+  },
+  {
+    "name": "chowdsp: ChowCentaur",
+    "manufacturer": "Chow",
+    "type": "aufx",
+    "subtype": "Ctr1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ChowCentaur.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Whistle v1",
+    "manufacturer": "QKjx",
+    "type": "aumu",
+    "subtype": "Dx(p",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Whistle v1.component"
+  },
+  {
+    "name": "HOFA: 4U+ DynamicTiltEQ",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hff6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA 4U+ DynamicTiltEQ.component"
+  },
+  {
+    "name": "unplugred: SunBurnt",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Snbt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SunBurnt.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC FreqAnalyst 2 (Stereo)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "le75",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC FreqAnalyst 2 AU(Stereo).component"
+  },
+  {
+    "name": "2Rule: TugMultiEffect",
+    "manufacturer": "Manu",
+    "type": "aufx",
+    "subtype": "Klew",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TugMultiEffect.component"
+  },
+  {
+    "name": "Native Instruments: Massive",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "NiMa",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Massive.component"
+  },
+  {
+    "name": "MeldaProduction: MCompressor",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MCompressor.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Voxana v2022.05",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "9x6b",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Voxana v2022.05.component"
+  },
+  {
+    "name": "MeldaProduction: MStereoScope",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MSSc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MStereoScope.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_masterdesk Classic",
+    "manufacturer": "Brwx",
+    "type": "aumf",
+    "subtype": "bxmb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_masterdesk Classic.component"
+  },
+  {
+    "name": "Klevgrand: REAMP",
+    "manufacturer": "Klev",
+    "type": "aufx",
+    "subtype": "Lftq",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/REAMP.component"
+  },
+  {
+    "name": "Native Instruments: Komplete Kontrol",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "NiKK",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Komplete Kontrol.component"
+  },
+  {
+    "name": "Kilohearts: kHs Channel Mixer",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kscm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Channel Mixer.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Synth v2.2022.10",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "PEgh",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Synth v2.2022.10.component"
+  },
+  {
+    "name": "Sonnox: VoxD Widen",
+    "manufacturer": "Snnx",
+    "type": "aufx",
+    "subtype": "VxDW",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/VoxD Widen.component"
+  },
+  {
+    "name": "Monkwind: WickedPitcher",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "1Q69",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/WickedPitcher.component"
+  },
+  {
+    "name": "Softube: Marshall Silver Jubilee 2555",
+    "manufacturer": "SfTb",
+    "type": "aufx",
+    "subtype": "dptu",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Marshall Silver Jubilee 2555.component"
+  },
+  {
+    "name": "Kilohearts: kHs Shaper",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kssr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Shaper.component"
+  },
+  {
+    "name": "MeldaProduction: MAutopan",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MAutopan.component"
+  },
+  {
+    "name": "Relab Development: LX480 Essentials",
+    "manufacturer": "Relb",
+    "type": "aufx",
+    "subtype": "LX4E",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/LX480 Essentials.component"
+  },
+  {
+    "name": "Audiomodern: Filterstep",
+    "manufacturer": "Aumd",
+    "type": "aufx",
+    "subtype": "Flts",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Filterstep.component"
+  },
+  {
+    "name": "TAL-Togu Audio Line: TAL-Filter-2",
+    "manufacturer": "TOGU",
+    "type": "aumf",
+    "subtype": "025e",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TAL-Filter-2.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_crispytuner",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "Tuna",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_crispytuner.component"
+  },
+  {
+    "name": "Native Instruments: Raum",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$Q",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Raum.component"
+  },
+  {
+    "name": "audiolatry: Zumzet 2 Lite",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "ZrRm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zumzet 2 Lite.component"
+  },
+  {
+    "name": "Valhalla DSP, LLC: ValhallaSupermassive",
+    "manufacturer": "oDin",
+    "type": "aufx",
+    "subtype": "sMas",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ValhallaSupermassive.component"
+  },
+  {
+    "name": "Safari Pedals: Fox Echo Chorus",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "FECH",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Fox Echo Chorus.component"
+  },
+  {
+    "name": "MeldaProduction: MPhaser",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe5",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MPhaser.component"
+  },
+  {
+    "name": "mucoder: hypercyclic",
+    "manufacturer": "MUCR",
+    "type": "aumu",
+    "subtype": "MU04",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/hypercyclic.component"
+  },
+  {
+    "name": "Vital Audio: Vital",
+    "manufacturer": "Tyte",
+    "type": "aumu",
+    "subtype": "Vita",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Vital.component"
+  },
+  {
+    "name": "Kilohearts: kHs Trance Gate",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kstg",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Trance Gate.component"
+  },
+  {
+    "name": "audiolatry: PlastikGuitar",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "Xpd4",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/PlastikGuitar.component"
+  },
+  {
+    "name": "Native Instruments: Battery 4",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "NBa4",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Battery 4.component"
+  },
+  {
+    "name": "Safari Pedals: Cobra Fuzz",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Cbfz",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cobra Fuzz.component"
+  },
+  {
+    "name": "iZotope: Trash",
+    "manufacturer": "iZtp",
+    "type": "aufx",
+    "subtype": "Trsh",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/iZTrashAUHook.component"
+  },
+  {
+    "name": "audiolatry: Amurg 4 Lite",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "KzSC",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Amurg 4 Lite.component"
+  },
+  {
+    "name": "XLN Audio: Addictive Drums 2",
+    "manufacturer": "xlnA",
+    "type": "aumu",
+    "subtype": "xAD2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Addictive Drums 2.component"
+  },
+  {
+    "name": "D10Labo: LowBitMonoSyn",
+    "manufacturer": "Dlab",
+    "type": "aumu",
+    "subtype": "Wca0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/LowBitMonoSyn.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Bass v2-2022.08",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "626P",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Bass v2-2022.08.component"
+  },
+  {
+    "name": "GuitarML: TS-M1N3",
+    "manufacturer": "GtML",
+    "type": "aufx",
+    "subtype": "Tsm3",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TS-M1N3.component"
+  },
+  {
+    "name": "MeldaProduction: MEqualizer",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe3",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MEqualizer.component"
+  },
+  {
+    "name": "audiolatry: Mel-Lofi 2",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "H_5r",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Mel-Lofi 2.component"
+  },
+  {
+    "name": "Monkwind: CRUNCHer",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "1Z03",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/CRUNCHer.component"
+  },
+  {
+    "name": "u-he: ZebraCM",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "ZecM",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ZebraCM.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC FreqAnalyst 2 (Mono)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "h8m8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC FreqAnalyst 2 AU(Mono).component"
+  },
+  {
+    "name": "ESL: RetroVerse Lite",
+    "manufacturer": "12dp",
+    "type": "aumu",
+    "subtype": "GQKc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RetroVerse Lite.component"
+  },
+  {
+    "name": "Bedroom Producers Blog: Dirty LA",
+    "manufacturer": "Manu",
+    "type": "aufx",
+    "subtype": "Fmjk",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Dirty LA.component"
+  },
+  {
+    "name": "Kilohearts: kHs Phaser",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksph",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Phaser.component"
+  },
+  {
+    "name": "Kyle Beats Inc: Drip",
+    "manufacturer": "Tano",
+    "type": "aufx",
+    "subtype": "Tano",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Drip.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Ethnica v2",
+    "manufacturer": "QKjx",
+    "type": "aumu",
+    "subtype": "BgSH",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Ethnica v2.component"
+  },
+  {
+    "name": "HOFA: 4U Goniometer & Korrelator",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hff0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA 4U Goniometer & Korrelator.component"
+  },
+  {
+    "name": "Safari Pedals: Level-Or",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Lvor",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Level-Or.component"
+  },
+  {
+    "name": "Safari Pedals: Yak Delay",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "YKDL",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Yak Delay.component"
+  },
+  {
+    "name": "Stagecraft Software: SC BitCrusher",
+    "manufacturer": "ScSw",
+    "type": "aumf",
+    "subtype": "BiCr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SC BitCrusher.component"
+  },
+  {
+    "name": "Surge Synth Team: Surge XT Effects",
+    "manufacturer": "VmbA",
+    "type": "aufx",
+    "subtype": "SFXT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Surge XT Effects.component"
+  },
+  {
+    "name": "Safari Pedals: Dragon EQ",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "dreq",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Dragon EQ.component"
+  },
+  {
+    "name": "Stagecraft Software: SC AutoFilter",
+    "manufacturer": "ScSw",
+    "type": "aumf",
+    "subtype": "AuFi",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SC AutoFilter.component"
+  },
+  {
+    "name": "Venn Audio: Free Delay",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frdl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Delay.component"
+  },
+  {
+    "name": "Blanketfort Audio: Melloharp",
+    "manufacturer": "Bfaa",
+    "type": "aumu",
+    "subtype": "Aaab",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Melloharp.component"
+  },
+  {
+    "name": "MeldaProduction: MRingModulator",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MRingModulator.component"
+  },
+  {
+    "name": "Puremagnetik: Expanse",
+    "manufacturer": "Pmgk",
+    "type": "aumu",
+    "subtype": "4133",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Expanse.component"
+  },
+  {
+    "name": "audiolatry: Upright Piano",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "4H2m",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Upright Piano.component"
+  },
+  {
+    "name": "BEATSURFING: RANDOM Metal",
+    "manufacturer": "Druw",
+    "type": "aumu",
+    "subtype": "Rmet",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RANDOM Metal.component"
+  },
+  {
+    "name": "Minimal: Swarm Reverb",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "SRVB",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Swarm Reverb.component"
+  },
+  {
+    "name": "Frogmod Audio: sapheri_v2",
+    "manufacturer": "Frog",
+    "type": "aumf",
+    "subtype": "sap2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/sapheri_v2.component"
+  },
+  {
+    "name": "Native Instruments: Kontakt",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "Ni$D",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Kontakt.component"
+  },
+  {
+    "name": "Soundpaint: Soundpaint",
+    "manufacturer": "8DIO",
+    "type": "aumu",
+    "subtype": "8Spt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Soundpaint.component"
+  },
+  {
+    "name": "MeldaProduction: MOscillator",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MOs+",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MOscillator.component"
+  },
+  {
+    "name": "Kilohearts: kHs Gain",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksgn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Gain.component"
+  },
+  {
+    "name": "Monkwind: SaturateMe",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "1ZZ9",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SaturateMe.component"
+  },
+  {
+    "name": "Daniel Gergely: Emergence",
+    "manufacturer": "Dani",
+    "type": "aufx",
+    "subtype": "Emgc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Emergence.component"
+  },
+  {
+    "name": "Native Instruments: Dirt",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$L",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Dirt.component"
+  },
+  {
+    "name": "Venn Audio: Free Meter",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frmt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Meter.component"
+  },
+  {
+    "name": "Kilohearts: kHs Nonlinear Filter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksdf",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Nonlinear Filter.component"
+  },
+  {
+    "name": "Native Instruments: Solid Bus Comp",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Solid Bus Comp.component"
+  },
+  {
+    "name": "Monkwind: WideMe",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "1B39",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/WideMe.component"
+  },
+  {
+    "name": "audiolatry: Cosmic 2 Lite",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "8sTE",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cosmic 2 Lite.component"
+  },
+  {
+    "name": "chowdsp: ChowPhaserStereo",
+    "manufacturer": "Chow",
+    "type": "aufx",
+    "subtype": "Cph2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ChowPhaserStereo.component"
+  },
+  {
+    "name": "u-he: TyrellN6",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "tYn6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TyrellN6.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Strings v1.2022.09",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "NSiB",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Strings v1.2022.09.component"
+  },
+  {
+    "name": "Minimal: Morph EQ",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "MREQ",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Morph EQ.component"
+  },
+  {
+    "name": "MeldaProduction: MUtility",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "Muti",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MUtility.component"
+  },
+  {
+    "name": "",
+    "manufacturer": "Maizesoft",
+    "type": "AUMU",
+    "subtype": "SAMP",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Sound Gadgets.component"
+  },
+  {
+    "name": "Kilohearts: kHs Ring Mod",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksrm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Ring Mod.component"
+  },
+  {
+    "name": "Native Instruments: Replika XT",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$C",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Replika XT.component"
+  },
+  {
+    "name": "HOFA: SYS AlgoVerb",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Comp",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS EQ",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Distortion",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS3",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Gain",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS4",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Pan",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS5",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS CompListenMic",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Pitch",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS7",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Delay",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Expander",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfS9",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Gate",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSa",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Notepad",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Meter",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS PinkNoise",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Flanger",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSe",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS MultiMod",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSf",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Phaser",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSg",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Chorus",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSh",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS Saturator",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSi",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS EQ-Dynamic",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSj",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS IR-Verb",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSk",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS MasterLimiter",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS TransientShaper",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "HOFA: SYS DelayPro",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfSn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM Shell.component"
+  },
+  {
+    "name": "Ear Candy Technologies: Esmeralda",
+    "manufacturer": "Manu",
+    "type": "aufx",
+    "subtype": "E1na",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Esmeralda.component"
+  },
+  {
+    "name": "Polyverse Music: Wider",
+    "manufacturer": "PLVR",
+    "type": "aufx",
+    "subtype": "PvWr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Wider.component"
+  },
+  {
+    "name": "Monkwind: MajicFM",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "29Mo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MajicFM.component"
+  },
+  {
+    "name": "Native Instruments: FM8",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "Nif8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/FM8.component"
+  },
+  {
+    "name": "Native Instruments: FM8 MFX",
+    "manufacturer": "-NI-",
+    "type": "aumf",
+    "subtype": "Nif8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/FM8.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_meter",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxmt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_meter.component"
+  },
+  {
+    "name": "Safari Pedals: Hawk Phaser",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Hkph",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Hawk Phaser.component"
+  },
+  {
+    "name": "Diginoiz: TrapDrive",
+    "manufacturer": "Dign",
+    "type": "aufx",
+    "subtype": "trpd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/trapdrive.component"
+  },
+  {
+    "name": "MeldaProduction: MSaturator",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe4",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MSaturator.component"
+  },
+  {
+    "name": "audiolatry: Grand Piano",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "DLe2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Grand Piano.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_tuner",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxtn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_tuner.component"
+  },
+  {
+    "name": "Acon Digital: Acon Digital Verberate Basic 2",
+    "manufacturer": "ACON",
+    "type": "aufx",
+    "subtype": "VBB2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/VerberateBasic2.component"
+  },
+  {
+    "name": "Native Instruments: Kontakt 7",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "NiK7",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Kontakt 7.component"
+  },
+  {
+    "name": "TAL-Togu Audio Line: TAL-NoiseMaker",
+    "manufacturer": "TOGU",
+    "type": "aumu",
+    "subtype": "ncut",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TAL-NoiseMaker.component"
+  },
+  {
+    "name": "Focusrite: Focusrite Red 3 Compressor",
+    "manufacturer": "FCUS",
+    "type": "aufx",
+    "subtype": "fr3c",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Focusrite Red 3 Compressor.component"
+  },
+  {
+    "name": "Monkwind: LEVELer",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "7RT4",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/LEVELer.component"
+  },
+  {
+    "name": "UJAM: FIN-MICRO",
+    "manufacturer": "UJAM",
+    "type": "aufx",
+    "subtype": "FIMI",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/FIN-MICRO.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Freeceiver",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "frcv",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Freeceiver AU.component"
+  },
+  {
+    "name": "polydigm: Klimper Track",
+    "manufacturer": "Pdgm",
+    "type": "aumi",
+    "subtype": "KlpT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Klimper Track.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Flanger 3 (Mono)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "9w4w",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Flanger 3 AU(Mono).component"
+  },
+  {
+    "name": "chowdsp: ChowMatrix",
+    "manufacturer": "Chow",
+    "type": "aufx",
+    "subtype": "spg3",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ChowMatrix.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Gain 3 (Dual)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "83t4",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Gain 3 AU(Dual).component"
+  },
+  {
+    "name": "Wave Arts: Tube Saturator Vintage",
+    "manufacturer": "Wart",
+    "type": "aufx",
+    "subtype": "WTSV",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TubeSaturatorVintage.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_greenscreamer",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxgs",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_greenscreamer.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Gain 3 (Mono)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "7518",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Gain 3 AU(Mono).component"
+  },
+  {
+    "name": "Kilohearts: kHs Filter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksfi",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Filter.component"
+  },
+  {
+    "name": "Cymatics: Cymatics Origin",
+    "manufacturer": "Cyma",
+    "type": "aufx",
+    "subtype": "Orgn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cymatics Origin.component"
+  },
+  {
+    "name": "Safari Pedals: Rabbit Tape",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "RBTP",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Rabbit Tape.component"
+  },
+  {
+    "name": "Kilohearts: kHs Formant Filter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksvf",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Formant Filter.component"
+  },
+  {
+    "name": "Surge Synth Team: Surge XT",
+    "manufacturer": "VmbA",
+    "type": "aumu",
+    "subtype": "SgXT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Surge XT.component"
+  },
+  {
+    "name": "KiTiK Music: Chop Chop!",
+    "manufacturer": "Manu",
+    "type": "aumu",
+    "subtype": "Ifww",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Chop Chop!.component"
+  },
+  {
+    "name": "GAS Therapy: AnyAmpIR",
+    "manufacturer": "Gast",
+    "type": "aufx",
+    "subtype": "Ampi",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/AnyAmpIR.component"
+  },
+  {
+    "name": "Dada Life: Wide Awake",
+    "manufacturer": "TLDN",
+    "type": "aufx",
+    "subtype": "DLWA",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Wide Awake.component"
+  },
+  {
+    "name": "Venn Audio: Free Convolve",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frcn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Convolve.component"
+  },
+  {
+    "name": "Techivation: T-Puncher-Free",
+    "manufacturer": "Tech",
+    "type": "aufx",
+    "subtype": "TPFr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/T-Puncher-Free.component"
+  },
+  {
+    "name": "MeldaProduction: MOscilloscope",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MOsS",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MOscilloscope.component"
+  },
+  {
+    "name": "Native Instruments: Replika",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$B",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Replika.component"
+  },
+  {
+    "name": "Audiomodern: Panflow",
+    "manufacturer": "Aumd",
+    "type": "aumf",
+    "subtype": "APan",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Panflow.component"
+  },
+  {
+    "name": "Dada Life: Endless Smile",
+    "manufacturer": "TLDN",
+    "type": "aufx",
+    "subtype": "ENDS",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Endless Smile.component"
+  },
+  {
+    "name": "Monkwind: ArpeggiateMe",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "1Q89",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ArpeggiateMe.component"
+  },
+  {
+    "name": "unplugred: MPaint",
+    "manufacturer": "Ured",
+    "type": "aumu",
+    "subtype": "Mpnt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MPaint.component"
+  },
+  {
+    "name": "MeldaProduction: MNotepad",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MNot",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MNotepad.component"
+  },
+  {
+    "name": "Splice: Splice Bridge",
+    "manufacturer": "Splc",
+    "type": "aumu",
+    "subtype": "Xy7h",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SpliceBridge.component"
+  },
+  {
+    "name": "D10Labo: RhythmDelayFree",
+    "manufacturer": "Dlab",
+    "type": "aumf",
+    "subtype": "Dfre",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RhythmDelayFree.component"
+  },
+  {
+    "name": "Native Instruments: Supercharger GT",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$A",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Supercharger GT.component"
+  },
+  {
+    "name": "ESL: 808 Bass Module 5 Lite",
+    "manufacturer": "12dp",
+    "type": "aumu",
+    "subtype": "H)39",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/808 Bass Module 5 Lite.component"
+  },
+  {
+    "name": "Safari Pedals: Silver Llama Amp",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Slam",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Silver Llama Amp.component"
+  },
+  {
+    "name": "BABY Audio: Pitch Drift",
+    "manufacturer": "B4by",
+    "type": "aufx",
+    "subtype": "B4Pd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Pitch Drift.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_bluechorus2",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxb2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_bluechorus2.component"
+  },
+  {
+    "name": "TAL-Togu Audio Line: TAL-Chorus-LX",
+    "manufacturer": "TOGU",
+    "type": "aufx",
+    "subtype": "cHL1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TAL-Chorus-LX.component"
+  },
+  {
+    "name": "MeldaProduction: MCCGenerator",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MCCG",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MCCGenerator.component"
+  },
+  {
+    "name": "chowdsp: CHOWTapeModel",
+    "manufacturer": "Chow",
+    "type": "aufx",
+    "subtype": "Jdox",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/CHOWTapeModel.component"
+  },
+  {
+    "name": "Sonnox: VoxD Thicken",
+    "manufacturer": "Snnx",
+    "type": "aufx",
+    "subtype": "VxDT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/VoxD Thicken.component"
+  },
+  {
+    "name": "brand0: gooper",
+    "manufacturer": "BND0",
+    "type": "aufx",
+    "subtype": "G00P",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/gooper.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_crispyscale",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "ScaF",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_crispyscale.component"
+  },
+  {
+    "name": "Big Fish Audio: Momentum",
+    "manufacturer": "BIGF",
+    "type": "aumu",
+    "subtype": "MOME",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Momentum.component"
+  },
+  {
+    "name": "BPB: DirtySpring",
+    "manufacturer": "Bpr0",
+    "type": "aufx",
+    "subtype": "Spr1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DirtySpring.component"
+  },
+  {
+    "name": "Native Instruments: Choral",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$I",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Choral.component"
+  },
+  {
+    "name": "unplugred: Scope",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Scop",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Scope.component"
+  },
+  {
+    "name": "Soundly: Soundly Place it",
+    "manufacturer": "Sdly",
+    "type": "aufx",
+    "subtype": "Plct",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/PlaceIt.component"
+  },
+  {
+    "name": "TAL-Togu Audio Line: TAL-Vocoder-2",
+    "manufacturer": "TOGU",
+    "type": "aumf",
+    "subtype": "VOC2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TAL-Vocoder-2.component"
+  },
+  {
+    "name": "Sound Particles: AirMusic",
+    "manufacturer": "SPar",
+    "type": "aufx",
+    "subtype": "SPAm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/AirMusic.component"
+  },
+  {
+    "name": "MeldaProduction: MComb",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MCom",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MComb.component"
+  },
+  {
+    "name": "Minimal: Fuse Compressor",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "FUCO",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Fuse Compressor.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_megasingle",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxms",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_megasingle.component"
+  },
+  {
+    "name": "MeldaProduction: MChannelMatrix",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MChM",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MChannelMatrix.component"
+  },
+  {
+    "name": "Tracktion: Attracktive",
+    "manufacturer": "TSCP",
+    "type": "aumu",
+    "subtype": "TSAt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Attracktive.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Piano v3",
+    "manufacturer": "QKjx",
+    "type": "aumu",
+    "subtype": "ZLxW",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Piano v3.component"
+  },
+  {
+    "name": "Kilohearts: kHs Compressor",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kscp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Compressor.component"
+  },
+  {
+    "name": "Dada Life: Sausage Fattener",
+    "manufacturer": "TLDN",
+    "type": "aufx",
+    "subtype": "DLSF",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SausageFattener.component"
+  },
+  {
+    "name": "NovoNotes: Ambience Enhancer Lite",
+    "manufacturer": "Magn",
+    "type": "aufx",
+    "subtype": "Amel",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Ambience Enhancer Lite.component"
+  },
+  {
+    "name": "dog magic: Bad Channel Micro",
+    "manufacturer": "Manu",
+    "type": "aufx",
+    "subtype": "S9ej",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BadChannelMicro.component"
+  },
+  {
+    "name": "Tritik: Krush",
+    "manufacturer": "TrTk",
+    "type": "aumf",
+    "subtype": "tkKr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Krush.component"
+  },
+  {
+    "name": "Venn Audio: Free Comp",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frcm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Comp.component"
+  },
+  {
+    "name": "Urban Kits: Bedroom Guitar",
+    "manufacturer": "Boex",
+    "type": "aumu",
+    "subtype": "UKBG",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Bedroom Guitar.component"
+  },
+  {
+    "name": "",
+    "manufacturer": "Maizesoft",
+    "type": "AUMU",
+    "subtype": "SAMP",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Xylo Toy.component"
+  },
+  {
+    "name": "Wavegrove: Vastaus",
+    "manufacturer": "WGRV",
+    "type": "aufx",
+    "subtype": "ofzo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Vastaus.component"
+  },
+  {
+    "name": "HOFA: 4U+ BlindTest",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hff3",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA 4U+ BlindTest.component"
+  },
+  {
+    "name": "XLN Audio: Addictive Keys",
+    "manufacturer": "xlnA",
+    "type": "aumu",
+    "subtype": "xaAK",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Addictive Keys.component"
+  },
+  {
+    "name": "ADSR: ADSR Sample Manager",
+    "manufacturer": "ADSR",
+    "type": "aumu",
+    "subtype": "Axhg",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ADSR Sample Manager.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Guitar v2.2022.09",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "$8K]",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Guitar v2.2022.09.component"
+  },
+  {
+    "name": "audiolatry: Lofi Flute",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "83XC",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Lofi Flute.component"
+  },
+  {
+    "name": "Kilohearts: kHs Reverb",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksrv",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Reverb.component"
+  },
+  {
+    "name": "Dada Life: Space In-Your-Face",
+    "manufacturer": "TLDN",
+    "type": "aufx",
+    "subtype": "DLSI",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Space In-Your-Face.component"
+  },
+  {
+    "name": "Maizesoft: Maize Sampler Player",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "Ngf8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/808 Bass Module 4 Lite.component"
+  },
+  {
+    "name": "Ear Candy Technologies: Zafiro",
+    "manufacturer": "Manu",
+    "type": "aufx",
+    "subtype": "L7bl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zafiro.component"
+  },
+  {
+    "name": "Kilohearts: kHs Tape Stop",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksts",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Tape Stop.component"
+  },
+  {
+    "name": "Kilohearts: kHs Gate",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksgt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Gate.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_opto Pedal",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxop",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_opto Pedal.component"
+  },
+  {
+    "name": "ESL: CMP100",
+    "manufacturer": "12dp",
+    "type": "aumu",
+    "subtype": "PHot",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/CMP100.component"
+  },
+  {
+    "name": "Minimal: Ripple Phaser",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "RPLP",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Ripple Phaser.component"
+  },
+  {
+    "name": "Minimal: Rift",
+    "manufacturer": "Mini",
+    "type": "aumf",
+    "subtype": "RIFT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Rift.component"
+  },
+  {
+    "name": "MeldaProduction: MCharmVerb",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MChV",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MCharmVerb.component"
+  },
+  {
+    "name": "Minimal: Cluster Delay",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "CDLY",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cluster Delay.component"
+  },
+  {
+    "name": "Apisonic Labs: Transperc",
+    "manufacturer": "ApLa",
+    "type": "aufx",
+    "subtype": "AlTp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Transperc.component"
+  },
+  {
+    "name": "unplugred: ClickBox",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Poc9",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ClickBox.component"
+  },
+  {
+    "name": "Focusrite: Focusrite Red 2 EQ",
+    "manufacturer": "FCUS",
+    "type": "aufx",
+    "subtype": "fr2e",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Focusrite Red 2 EQ.component"
+  },
+  {
+    "name": "MeldaProduction: MNoiseGenerator",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MNoi",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MNoiseGenerator.component"
+  },
+  {
+    "name": "unplugred: Pisstortion",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Piss",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Pisstortion.component"
+  },
+  {
+    "name": "Universal Audio (UADx): UADx LA-2A Tube Compressor",
+    "manufacturer": "UADx",
+    "type": "aufx",
+    "subtype": "U3DJ",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/uaudio_teletronix_la-2a_tc.component"
+  },
+  {
+    "name": "BABY Audio: Magic Switch",
+    "manufacturer": "B4by",
+    "type": "aufx",
+    "subtype": "M4gc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Magic Switch.component"
+  },
+  {
+    "name": "Safari Pedals: Owl Control",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "OWLC",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Owl Control.component"
+  },
+  {
+    "name": "TheWaveWarden: Odin2",
+    "manufacturer": "WAWA",
+    "type": "aumu",
+    "subtype": "ODIN",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Odin2.component"
+  },
+  {
+    "name": "Minimal: Flex Chorus",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "FLXC",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Flex Chorus.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Chorus 4 (Mono)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "b51i",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Chorus 4 AU(Mono).component"
+  },
+  {
+    "name": "D10Labo: ModSynthMono",
+    "manufacturer": "Dlab",
+    "type": "aumu",
+    "subtype": "Waj0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ModSynthMono.component"
+  },
+  {
+    "name": "MeldaProduction: MWaveFolder",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MWaF",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MWaveFolder.component"
+  },
+  {
+    "name": "Techivation: T-De-Esser",
+    "manufacturer": "Tech",
+    "type": "aufx",
+    "subtype": "Tdsr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/T-De-Esser.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Phaser 3 (Stereo)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "0f7e",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Phaser 3 AU(Stereo).component"
+  },
+  {
+    "name": "Plugin Alliance: SPL Free Ranger",
+    "manufacturer": "SPL1",
+    "type": "aufx",
+    "subtype": "SPFE",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SPL Free Ranger.component"
+  },
+  {
+    "name": "u-he: Zebra2",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "SMD2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zebra2.component"
+  },
+  {
+    "name": "u-he: Zebralette",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "SMD3",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zebra2.component"
+  },
+  {
+    "name": "u-he: ZRev",
+    "manufacturer": "UHfX",
+    "type": "aumf",
+    "subtype": "reV0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zebra2.component"
+  },
+  {
+    "name": "u-he: Zebrify",
+    "manufacturer": "UHfX",
+    "type": "aumf",
+    "subtype": "SMY2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zebra2.component"
+  },
+  {
+    "name": "STL Tones: STL AmpHub LE",
+    "manufacturer": "STLT",
+    "type": "aumf",
+    "subtype": "AHLE",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/STL AmpHub LE.component"
+  },
+  {
+    "name": "Kilohearts: kHs Phase Distortion",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kspd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Phase Distortion.component"
+  },
+  {
+    "name": "Native Instruments: Freak",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$N",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Freak.component"
+  },
+  {
+    "name": "Klevgrand: Korvpressor",
+    "manufacturer": "Klev",
+    "type": "aufx",
+    "subtype": "korv",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Korvpressor.component"
+  },
+  {
+    "name": "HigherHz: HZ Multiplier",
+    "manufacturer": "HiHz",
+    "type": "aumf",
+    "subtype": "vamk",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HZ Multiplier.component"
+  },
+  {
+    "name": "Safari Pedals: TimeMachine",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "TMCH",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TimeMachine.component"
+  },
+  {
+    "name": "Wavea: Flite",
+    "manufacturer": "Wave",
+    "type": "aumu",
+    "subtype": "Wflt",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Flite.component"
+  },
+  {
+    "name": "99Sounds: DrumPlayer v1",
+    "manufacturer": "TmL$",
+    "type": "aumu",
+    "subtype": "EPWV",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DrumPlayer v1.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Triple EQ 4 (Mono)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "0127",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Triple EQ 4 AU(Mono).component"
+  },
+  {
+    "name": "Native Instruments: Solid Dynamics",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$7",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Solid Dynamics.component"
+  },
+  {
+    "name": "Wave Alchemy: Magic7",
+    "manufacturer": "Wval",
+    "type": "aufx",
+    "subtype": "Wamg",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Magic7.component"
+  },
+  {
+    "name": "MeldaProduction: MFreqShifter",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAeF",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MFreqShifter.component"
+  },
+  {
+    "name": "Safari Pedals: Twin Panda Amp",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Tpnd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Twin Panda Amp.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_metal2",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxm2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_metal2.component"
+  },
+  {
+    "name": "Bedroom Producers Blog: BPB 64",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "Ttdq",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BPB 64.component"
+  },
+  {
+    "name": "MeldaProduction: MMetronome",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MMet",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MMetronome.component"
+  },
+  {
+    "name": "MeldaProduction: MTuner",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MTun",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MTuner.component"
+  },
+  {
+    "name": "Venn Audio: Free Pan",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frpn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Pan.component"
+  },
+  {
+    "name": "Kilohearts: kHs Pitch Shifter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksps",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Pitch Shifter.component"
+  },
+  {
+    "name": "Safari Pedals: LadyBug Reverb",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "LDBG",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/LadyBug Reverb.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Sax v1",
+    "manufacturer": "QKjx",
+    "type": "aumu",
+    "subtype": "StdY",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Sax v1.component"
+  },
+  {
+    "name": "Xfer Records: DJMFilter",
+    "manufacturer": "XFER",
+    "type": "aufx",
+    "subtype": "XfBf",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DJMFilter.component"
+  },
+  {
+    "name": "BEATSURFING: RANDOM",
+    "manufacturer": "Druw",
+    "type": "aumu",
+    "subtype": "Phpr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RANDOM.component"
+  },
+  {
+    "name": "Blue Cat Audio: BC Triple EQ 4 (Dual)",
+    "manufacturer": "Bcau",
+    "type": "aumf",
+    "subtype": "5455",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BC Triple EQ 4 AU(Dual).component"
+  },
+  {
+    "name": "audiolatry: 808XD",
+    "manufacturer": "Maze",
+    "type": "aumu",
+    "subtype": "CZV[",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/808XD.component"
+  },
+  {
+    "name": "unplugred: Prisma",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Prsm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Prisma.component"
+  },
+  {
+    "name": "",
+    "manufacturer": "Maizesoft",
+    "type": "AUMU",
+    "subtype": "SAMP",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/YoJo.component"
+  },
+  {
+    "name": "iZotope: Ozone 10",
+    "manufacturer": "iZtp",
+    "type": "aufx",
+    "subtype": "ZnOZ",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/iZOzone10AUHook.component"
+  },
+  {
+    "name": "Audio Damage, Inc.: Grind",
+    "manufacturer": "AuDa",
+    "type": "aufx",
+    "subtype": "ADg1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Grind.component"
+  },
+  {
+    "name": "Venn Audio: Free Tone",
+    "manufacturer": "Venn",
+    "type": "aufx",
+    "subtype": "Frtn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Free Tone.component"
+  },
+  {
+    "name": "MeldaProduction: MDelay",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "gx76",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MDelay.component"
+  },
+  {
+    "name": "iZotope: Vinyl",
+    "manufacturer": "iZtp",
+    "type": "aufx",
+    "subtype": "Vnyl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/iZVinylAUHook.component"
+  },
+  {
+    "name": "Native Instruments: Supercharger",
+    "manufacturer": "-NI-",
+    "type": "aufx",
+    "subtype": "Ni$@",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Supercharger.component"
+  },
+  {
+    "name": "CNB MUSIC: MBB",
+    "manufacturer": "Dh0d",
+    "type": "aumu",
+    "subtype": "MBBC",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MBB.component"
+  },
+  {
+    "name": "Denise Audio: My Crush",
+    "manufacturer": "D3na",
+    "type": "aufx",
+    "subtype": "M1cr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/My Crush.component"
+  },
+  {
+    "name": "Monkwind: GimmeSpace",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "ZEE9",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/GimmeSpace.component"
+  },
+  {
+    "name": "ZAK Sound: Orange Dreams 2 Lite",
+    "manufacturer": "Zaks",
+    "type": "aumu",
+    "subtype": "Olzk",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Orange Dreams 2 Lite.component"
+  },
+  {
+    "name": "Monkwind: SaturateLLC",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "AEW0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SaturateLLC.component"
+  },
+  {
+    "name": "Kilohearts: kHs Delay",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksdl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Delay.component"
+  },
+  {
+    "name": "Safari Pedals: Bull Sub Machine",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Blsm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Bull Sub Machine.component"
+  },
+  {
+    "name": "Safari Pedals: Rhino Reverb",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "RHVB",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Rhino Reverb.component"
+  },
+  {
+    "name": "Kilohearts: kHs Clipper",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kclp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Clipper.component"
+  },
+  {
+    "name": "Cymatics: Cymatics Space Lite",
+    "manufacturer": "Cyma",
+    "type": "aufx",
+    "subtype": "SpcL",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cymatics Space Lite.component"
+  },
+  {
+    "name": "plugdata: plugdata-fx",
+    "manufacturer": "PlDt",
+    "type": "aumf",
+    "subtype": "PdFx",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/plugdata-fx.component"
+  },
+  {
+    "name": "Fuse Audio Labs: VREV-666",
+    "manufacturer": "FsAu",
+    "type": "aufx",
+    "subtype": "FVr6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/VREV-666.component"
+  },
+  {
+    "name": "xin: lulu",
+    "manufacturer": "Exmp",
+    "type": "aumf",
+    "subtype": "Rnb0",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/lulu.component"
+  },
+  {
+    "name": "iZotope: Vocal Doubler",
+    "manufacturer": "iZtp",
+    "type": "aufx",
+    "subtype": "IZVD",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/iZVocalDoublerAUHook.component"
+  },
+  {
+    "name": "u-he: BazilleCM",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "uBCM",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BazilleCM.component"
+  },
+  {
+    "name": "Xfer Records: Dimension Expander",
+    "manufacturer": "XFER",
+    "type": "aufx",
+    "subtype": "XfDE",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DimensionExpander.component"
+  },
+  {
+    "name": "MeldaProduction: MBandPass",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MBa@",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MBandPass.component"
+  },
+  {
+    "name": "MeldaProduction: MVibrato",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe8",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MVibrato.component"
+  },
+  {
+    "name": "Safari Pedals: Silver Llama FX",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Slfx",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Silver Llama FX.component"
+  },
+  {
+    "name": "Cherry Audio: Surrealistic MG-1 Plus",
+    "manufacturer": "Chry",
+    "type": "aumu",
+    "subtype": "CAMG",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Surrealistic MG-1 Plus.component"
+  },
+  {
+    "name": "KSHMR: KSHMR Essentials Kick",
+    "manufacturer": "K5mr",
+    "type": "aufx",
+    "subtype": "E5nk",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/KSHMREssentialsKick.component"
+  },
+  {
+    "name": "Spitfire Audio: LABS",
+    "manufacturer": "SpFi",
+    "type": "aumu",
+    "subtype": "SfLb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/LABS.component"
+  },
+  {
+    "name": "MeldaProduction: MAutoPitch",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MauT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MAutoPitch.component"
+  },
+  {
+    "name": "Unison: Unison Zen Master",
+    "manufacturer": "UNIS",
+    "type": "aufx",
+    "subtype": "USZM",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Unison Zen Master.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_console Focusrite SC",
+    "manufacturer": "Brwx",
+    "type": "aumf",
+    "subtype": "bcfs",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_console Focusrite SC.component"
+  },
+  {
+    "name": "Steinberg: HALion Sonic",
+    "manufacturer": "Stbg",
+    "type": "aumu",
+    "subtype": "has1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HALion Sonic.component"
+  },
+  {
+    "name": "Sampleson: rePEDAL",
+    "manufacturer": "Samp",
+    "type": "aufx",
+    "subtype": "Repd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/rePEDAL.component"
+  },
+  {
+    "name": "Minimal: Wave Shifter",
+    "manufacturer": "Mini",
+    "type": "aufx",
+    "subtype": "WSHF",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Wave Shifter.component"
+  },
+  {
+    "name": "Valhalla DSP, LLC: ValhallaSpaceModulator",
+    "manufacturer": "oDin",
+    "type": "aufx",
+    "subtype": "SpMd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ValhallaSpaceModulator.component"
+  },
+  {
+    "name": "TAL-Togu Audio Line: TAL Reverb 4 Plugin",
+    "manufacturer": "TOGU",
+    "type": "aufx",
+    "subtype": "reV4",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TAL-Reverb-4.component"
+  },
+  {
+    "name": "unplugred: Prismon",
+    "manufacturer": "Ured",
+    "type": "aufx",
+    "subtype": "Prmn",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Prismon.component"
+  },
+  {
+    "name": "HOFA: SYSTEM",
+    "manufacturer": "HOFA",
+    "type": "aufx",
+    "subtype": "hfxS",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HOFA SYSTEM.component"
+  },
+  {
+    "name": "Spitfire Audio: BBC Symphony Orchestra",
+    "manufacturer": "SpFi",
+    "type": "aumu",
+    "subtype": "Sant",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BBC Symphony Orchestra.component"
+  },
+  {
+    "name": "nthnblair: Karp",
+    "manufacturer": "Nthn",
+    "type": "aumu",
+    "subtype": "N003",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Karp.component"
+  },
+  {
+    "name": "GAS Therapy: AASamplePlayer",
+    "manufacturer": "Gast",
+    "type": "aumu",
+    "subtype": "Sppl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/AASamplePlayer.component"
+  },
+  {
+    "name": "accentize: PreFET",
+    "manufacturer": "Actz",
+    "type": "aufx",
+    "subtype": "acPF",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Accentize-PreFET.component"
+  },
+  {
+    "name": "Glitchmachines: Fracture",
+    "manufacturer": "GlMa",
+    "type": "aumf",
+    "subtype": "GlFr",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Fracture.component"
+  },
+  {
+    "name": "u-he: Podolski",
+    "manufacturer": "UHfX",
+    "type": "aumu",
+    "subtype": "Podo",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Podolski.component"
+  },
+  {
+    "name": "Kilohearts: kHs Resonator",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksre",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Resonator.component"
+  },
+  {
+    "name": "Kilohearts: kHs Dual Delay",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksdd",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Dual Delay.component"
+  },
+  {
+    "name": "Cymatics: Cymatics Memory",
+    "manufacturer": "Cyma",
+    "type": "aufx",
+    "subtype": "Cyme",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Cymatics Memory.component"
+  },
+  {
+    "name": "Neutone: Neutone Morpho",
+    "manufacturer": "NTON",
+    "type": "aufx",
+    "subtype": "Ntmp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Neutone Morpho.component"
+  },
+  {
+    "name": "MeldaProduction: MFreeformPhase",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAfp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MFreeformPhase.component"
+  },
+  {
+    "name": "Safari Pedals: Twin Panda FX",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Tpfx",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Twin Panda FX.component"
+  },
+  {
+    "name": "Kilohearts: kHs Comb Filter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "kscf",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Comb Filter.component"
+  },
+  {
+    "name": "Bertom: Denoiser Classic",
+    "manufacturer": "Brtm",
+    "type": "aufx",
+    "subtype": "Dncl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Bertom_DenoiserClassic.component"
+  },
+  {
+    "name": "Ample Sound: Ample Bass P Lite II",
+    "manufacturer": "Apsd",
+    "type": "aumu",
+    "subtype": "apls",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/ABPL2.component"
+  },
+  {
+    "name": "MeldaProduction: MTremolo",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe7",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MTremolo.component"
+  },
+  {
+    "name": "MeldaProduction: MWaveShaper",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAe9",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MWaveShaper.component"
+  },
+  {
+    "name": "MNTRA: BOREALIS-LE",
+    "manufacturer": "Mnta",
+    "type": "aufx",
+    "subtype": "Brld",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/BOREALIS-LE.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Toys v1",
+    "manufacturer": "QKjx",
+    "type": "aumu",
+    "subtype": "Nbqc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Toys v1.component"
+  },
+  {
+    "name": "HigherHz: HZ Delay",
+    "manufacturer": "HiHz",
+    "type": "aumf",
+    "subtype": "HHZ1",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HZ Delay.component"
+  },
+  {
+    "name": "Kilohearts: kHs Bitcrush",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksbc",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Bitcrush.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_rockrack V3 Player",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxrp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_rockrack V3 Player.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_boom",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxbm",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_boom.component"
+  },
+  {
+    "name": "BABY Audio: Beat Slammer",
+    "manufacturer": "B4by",
+    "type": "aufx",
+    "subtype": "BtSl",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Beat Slammer.component"
+  },
+  {
+    "name": "iZotope: Ozone Imager 2",
+    "manufacturer": "iZtp",
+    "type": "aufx",
+    "subtype": "ZOI2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/iZOzoneImager2AUHook.component"
+  },
+  {
+    "name": "Safari Pedals: Dirty Dog Reverb",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "DDVB",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Dirty Dog Reverb.component"
+  },
+  {
+    "name": "Magenta: DDSP Effect",
+    "manufacturer": "Mage",
+    "type": "aufx",
+    "subtype": "Ranj",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DDSP Effect.component"
+  },
+  {
+    "name": "Native Instruments: Reaktor 6",
+    "manufacturer": "-NI-",
+    "type": "aumu",
+    "subtype": "NiR6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Reaktor 6.component"
+  },
+  {
+    "name": "Native Instruments: Reaktor 6 MFX",
+    "manufacturer": "-NI-",
+    "type": "aumf",
+    "subtype": "NiR6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Reaktor 6.component"
+  },
+  {
+    "name": "Native Instruments: Reaktor 6 MIDIFX",
+    "manufacturer": "-NI-",
+    "type": "aumi",
+    "subtype": "NiR6",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Reaktor 6.component"
+  },
+  {
+    "name": "Kilohearts: kHs Ensemble",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksun",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Ensemble.component"
+  },
+  {
+    "name": "AgusHardiman.TV: MONSTER Drums v3",
+    "manufacturer": "QKjx",
+    "type": "aumu",
+    "subtype": "Oj91",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MONSTER Drums v3.component"
+  },
+  {
+    "name": "Audiomodern: Gatelab",
+    "manufacturer": "Aumd",
+    "type": "aufx",
+    "subtype": "Gtlb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Gatelab.component"
+  },
+  {
+    "name": "Tilr: TIME-12",
+    "manufacturer": "Tilr",
+    "type": "aumf",
+    "subtype": "tm12",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/TIME-12.component"
+  },
+  {
+    "name": "IntegrAudio: Blowdio",
+    "manufacturer": "Inte",
+    "type": "aufx",
+    "subtype": "Blow",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Blowdio.component"
+  },
+  {
+    "name": "Plugin Alliance: bx_cleansweep V2",
+    "manufacturer": "Brwx",
+    "type": "aufx",
+    "subtype": "bxs2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/bx_cleansweep V2.component"
+  },
+  {
+    "name": "HY-Plugins: HY-Delay4_free",
+    "manufacturer": "HYhy",
+    "type": "aufx",
+    "subtype": "Hy40",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/HY-Delay4_free.component"
+  },
+  {
+    "name": "Decidedly: DecentSampler",
+    "manufacturer": "Dldy",
+    "type": "aumu",
+    "subtype": "Dsmp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/DecentSampler.component"
+  },
+  {
+    "name": "MeldaProduction: MLoudnessAnalyzer",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MLan",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MLoudnessAnalyzer.component"
+  },
+  {
+    "name": "Kilohearts: kHs Ladder Filter",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksla",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Ladder Filter.component"
+  },
+  {
+    "name": "Fuse Audio Labs: RS-W2395C",
+    "manufacturer": "FsAu",
+    "type": "aufx",
+    "subtype": "FRw2",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RS-W2395C.component"
+  },
+  {
+    "name": "Monkwind: SUMO",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "1H73",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/SUMO.component"
+  },
+  {
+    "name": "Glitchmachines: Hysteresis",
+    "manufacturer": "GlMa",
+    "type": "aumf",
+    "subtype": "Glhs",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Hysteresis.component"
+  },
+  {
+    "name": "Monkwind: Suppressor",
+    "manufacturer": "PIGU",
+    "type": "aumf",
+    "subtype": "3UPR",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Suppressor.component"
+  },
+  {
+    "name": "Safari Pedals: Lion Master",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "LION",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Lion Master.component"
+  },
+  {
+    "name": "MIA Laboratories: MIAMuscle",
+    "manufacturer": "P314",
+    "type": "aufx",
+    "subtype": "MM01",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MIAMuscle.component"
+  },
+  {
+    "name": "Kilohearts: kHs Dynamics",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksot",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Dynamics.component"
+  },
+  {
+    "name": "Safari Pedals: Zebra Clipper",
+    "manufacturer": "SFPD",
+    "type": "aufx",
+    "subtype": "Zclp",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Zebra Clipper.component"
+  },
+  {
+    "name": "audiolatry: RetroSynth Lite",
+    "manufacturer": "O9ug",
+    "type": "aumu",
+    "subtype": "MQ6n",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/RetroSynth Lite.component"
+  },
+  {
+    "name": "2Rule: 2RuleSynth",
+    "manufacturer": "Manu",
+    "type": "aumu",
+    "subtype": "Y6aj",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/2RuleSynth.component"
+  },
+  {
+    "name": "Caelum Audio: Tape Cassette 2",
+    "manufacturer": "CaeA",
+    "type": "aufx",
+    "subtype": "TCTw",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/Tape Cassette 2.component"
+  },
+  {
+    "name": "Kilohearts: kHs Stereo",
+    "manufacturer": " kHs",
+    "type": "aufx",
+    "subtype": "ksst",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/kHs Stereo.component"
+  },
+  {
+    "name": "MeldaProduction: MAnalyzer",
+    "manufacturer": "Meld",
+    "type": "aumf",
+    "subtype": "MAeb",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/MAnalyzer.component"
+  },
+  {
+    "name": "Xfer Records: OTT",
+    "manufacturer": "XFER",
+    "type": "aufx",
+    "subtype": "XfTT",
+    "description": "",
+    "path": "/Library/Audio/Plug-Ins/Components/OTT.component"
+  }
+]
