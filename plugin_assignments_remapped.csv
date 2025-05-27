@@ -1,0 +1,480 @@
+name,manufacturer,category_path,source
+Plugin Alliance: bx_distorange,Brwx,Effect > Saturation & Distortion > Analog Emulation,llm
+Native Instruments: Guitar Rig 6 FX,-NI-,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Native Instruments: Guitar Rig 6 MFX,-NI-,MIDI-Controlled Effect > MIDI-Triggered Creative FX,llm
+A1AUDIO.de: A1StereoControl,A1Au,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+chowdsp: BYOD,Chow,Effect > Saturation & Distortion > Analog Emulation,llm
+Minimal: Rift Feedback Lite,Mini,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Venn Audio: Free EQ,Venn,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+audiolatry: FunkBass 3,O9ug,Instrument > Specialized & Unique Instruments > Bass & Low-End Instruments,llm
+Audiomodern: Soundbox,Aumd,Instrument > Granular & Sample-Based Synths,llm
+Plugin Alliance: Unfiltered Audio lo-fi-af,UnAu,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+MeldaProduction: MSpectralPan,Meld,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+Kilohearts: kHs Distortion, kHs,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+unplugred: Magic Carpet,Ured,Effect > Creative & Special FX > Granular & Texture Generators,llm
+Safari Pedals: Gorilla Drive,SFPD,Effect > Saturation & Distortion > Analog Emulation,llm
+Native Instruments: Driver,-NI-,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Sixth Sample: Deelay,Manu,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+unplugred: Plastic Funeral,Ured,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+D10Labo: MSyn1mini,Dlab,Instrument > Synths > Analog & Subtractive Synths,llm
+CWITEC: TX16Wx Software Sampler,CWIT,Instrument > Sampled Instruments > Drums & Percussion,llm
+Lese: Codec,Lese,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Plugin Alliance: bx_blackdist2,Brwx,Effect > Saturation & Distortion > Analog Emulation,llm
+unplugred: CRMBL,Ured,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+VZtec: Malibu,Vztc,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+AgusHardiman.TV: MONSTER Keyz v2,QKjx,Instrument > Synths > Analog & Subtractive Synths,llm
+Rob Papen: RP-PAN,RPCX,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+Bedroom Producers Blog: Dirty Filter Plus,Bpr0,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Native Instruments: Flair,-NI-,Effect > Modulation > Chorus & Flanger,llm
+Audified: ToneKnob Saturator,AuFd,Effect > Saturation & Distortion > Exciters & Enhancers,llm
+Ample Sound: Ample Percussion Cloudrum,Apsd,Instrument > Sampled Instruments > Drums & Percussion,llm
+Dart: Plateau 2,Acme,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Cymatics: Cymatics Diablo Lite,Cyma,Effect > Dynamics > Compressors,llm
+Blue Cat Audio: BC Free Amp,Bcau,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Kilohearts: kHs Frequency Shifter, kHs,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+ZEEK: STFU,ZEEK,Effect > Dynamics > Noise Reduction & Restoration,llm
+Kilohearts: kHs Limiter, kHs,Effect > Dynamics > Limiters,llm
+u-he: Protoverb,UHfX,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+MeldaProduction: MBitFun,Meld,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Sampleson: CollaB3-V2-FREE,Samp,"Instrument > Sampled Instruments > Acoustic & Orchestral > Piano, Keys & Mallets",llm
+audiolatry: Drum8 2,Maze,Instrument > Sampled Instruments > Electronic & Synthetic Samples > Drum Machines & Electronic Kits,llm
+Denise Audio: Slappy,D3na,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Blue Cat Audio: BC Flanger 3 (Stereo),Bcau,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+Kilohearts: kHs Flanger, kHs,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+BABY Audio: Magic Dice,B4by,Effect > Creative & Special FX > Granular & Texture Generators,llm
+Plugin Alliance: bx_subfilter,Brwx,Effect > EQ & Filters > Filters > Resonance & Feedback Suppression,llm
+Fuse Audio Labs: VPRE-72,FsAu,Effect > Saturation & Distortion > Analog Emulation,llm
+Apisonic Labs: Speedrum lite,ApLa,Instrument > Sampled Instruments > Drums & Percussion,llm
+Tilr: GATE-12,Tilr,Effect > Dynamics > Gates & Expanders,llm
+Native Instruments: Kontakt 8,-NI-,Instrument > Sampled Instruments,llm
+unplugred: Diet Audio,Ured,Effect > Utility & Analysis > Gain & Routing Tools,llm
+Minimal: Hybrid Filter,Mini,Effect > EQ & Filters > Filters,llm
+VSL: Vienna Ensemble,VSLE,Other,llm
+VSL: Vienna Synchron Player,VSLS,Instrument > Sampled Instruments > Acoustic & Orchestral,llm
+BLEASS: BLEASS Monolit,Blss,Instrument > Synths > Analog & Subtractive Synths,llm
+Kilohearts: kHs Transient Shaper, kHs,Effect > Dynamics > Transient Processors,llm
+"Valhalla DSP, LLC: ValhallaFreqEcho",oDin,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+MIA Laboratories: MIAFat,P314,Effect > Saturation & Distortion > Exciters & Enhancers,llm
+Native Instruments: Phasis,-NI-,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+u-he: ZebraHZ,UHfX,Instrument > Synths > Modular & Hybrid Synths,llm
+Minimal: Rift Filter Lite,Mini,Effect > EQ & Filters > Filters,llm
+jameshball: osci-render,Manu,Other,llm
+Plugin Alliance: bx_oberhausen,Brwx,Instrument > Synths > Analog & Subtractive Synths,llm
+Safari Pedals: Sun Bear Bus Compressor,SFPD,Effect > Dynamics > Compressors,llm
+Plogue Art et Technologie: sforzando,PLOG,Instrument > Sampled Instruments > Acoustic & Orchestral,llm
+Blue Cat Audio: BC Triple EQ 4 (Stereo),Bcau,Effect > EQ & Filters > Equalizers,llm
+Cymatics: Cymatics Deja Vu,Cyma,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Plugin Alliance: bx_solo,Brwx,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+audiolatry: RetroGrit Lite,O9ug,Effect > Saturation & Distortion > Analog Emulation,llm
+MeldaProduction: MRatio,Meld,Effect > Dynamics > Compressors,llm
+unplugred: Red Bass,Ured,Instrument > Specialized & Unique Instruments > Bass & Low-End Instruments,llm
+unplugred: PNCH,Ured,Effect > Dynamics > Compressors,llm
+plugdata: plugdata,PlDt,Other,llm
+MeldaProduction: MAGC,Meld,Effect > Utility & Analysis > Other > Gain & Routing Tools,llm
+plugdata: plugdata-midi,PlDt,MIDI Plug-In > MIDI Processors & Transformers,llm
+Native Instruments: Bite,-NI-,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Blue Cat Audio: BC Gain 3 (Stereo),Bcau,Effect > Utility & Analysis > Other > Gain & Routing Tools,llm
+u-he: TripleCheese,UHfX,Instrument > Synths > Analog & Subtractive Synths,llm
+Native Instruments: Transient Master,-NI-,Effect > Dynamics > Transient Processors,llm
+Dawesome: Zyklop,Dwsm,Other,llm
+Venn Audio: Free Gain,Venn,Effect > Utility & Analysis > Gain & Routing Tools,llm
+Soundly: Soundly Shape it,Sdly,Other,llm
+Kilohearts: kHs 3-Band EQ, kHs,Effect > EQ & Filters > Equalizers,llm
+AgusHardiman.TV: GOLDEN Piano v2.2022.08,Maze,"Instrument > Sampled Instruments > Acoustic & Orchestral > Piano, Keys & Mallets",llm
+Cherry Audio: Synthesizer Expander Module,Chry,Instrument > Synths > Modular & Hybrid Synths,llm
+Antares: Auto-Tune Access,Antr,Effect > Vocal & Dialog Processing > Pitch Correction & Tuning,llm
+Kilohearts: kHs Reverser, kHs,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+MeldaProduction: MStereoExpander,Meld,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+Plugin Alliance: elysia niveau filter,Elys,Effect > EQ & Filters > Filters,llm
+Kilohearts: kHs Haas, kHs,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+Synapse: Zampler-RX,Syna,Instrument > Granular & Sample-Based Synths,llm
+Dada Life: Eternal Return,TLDN,Other,llm
+Kilohearts: kHs Chorus, kHs,Other,llm
+Blue Cat Audio: BC Chorus 4 (Stereo),Bcau,Other,llm
+Bedroom Producers Blog: Cassette Drums,(lgw,Other,llm
+iZotope: Ozone 11 Equalizer,iZtp,Other,llm
+audiolatry: Easy Strings,O9ug,Other,llm
+BABY Audio: Warp,B4b1,Other,llm
+MeldaProduction: MRatioMB,Meld,Other,llm
+Artists in DSP: Transpanner_2,Alpc,Other,llm
+MeldaProduction: MRecorder,Meld,Other,llm
+Native Instruments: Massive X,-NI-,Other,llm
+Monkwind: DrumWizard,PIGU,Other,llm
+Diginoiz: Subdivine,Dign,Other,llm
+Blue Cat Audio: BC Phaser 3 (Mono),Bcau,Other,llm
+Safari Pedals: Camel Strip,SFPD,Other,llm
+MeldaProduction: MConvolutionEZ,Meld,Other,llm
+SirenFX: NoisePalette,SFXA,Effect > Creative & Special FX > Granular & Texture Generators,llm
+audiolatry: Retromania Lite,O9ug,Instrument > Synths > Analog & Subtractive Synths,llm
+SoliderSound: S Pulser,Soso,Effect > Modulation > Phaser & Tremolo,llm
+Magenta: DDSP Synth,Mage,Instrument > Synths > Physical Modeling Synths,llm
+Newfangled Audio: Pendulate,Newf,Instrument > Synths > Modular & Hybrid Synths,llm
+Monkwind: EZPitch,PIGU,Effect > Vocal & Dialog Processing > Pitch Correction & Tuning,llm
+Plugin Alliance: bx_shredspread,Brwx,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+Minimal: Squash,Mini,Effect > Dynamics > Compressors,llm
+Samplab: Samplab,Manu,Instrument > Sampled Instruments > Drums & Percussion,llm
+Plugin Alliance: bx_yellowdrive,Brwx,Effect > Saturation & Distortion > Analog Emulation,llm
+audiolatry: RetroVibes 2 Lite,Maze,Instrument > Synths > Analog & Subtractive Synths,llm
+Native Instruments: Guitar Rig 7 FX,-NI-,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Native Instruments: Guitar Rig 7 MFX,-NI-,MIDI-Controlled Effect > MIDI-Triggered Creative FX,llm
+"Audio Damage, Inc.: RoughRider3",AuDa,Effect > Dynamics > Compressors,llm
+nthnblair: HALO_3DPAN,NTHN,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+"HOFA: 4U Meter, Fader & MS-Pan",HOFA,Effect > Utility & Analysis > Metering & Analysis,llm
+Ear Candy Technologies: Ruby,Manu,Other,llm
+Frogmod Audio: greenAU,Frog,Other,llm
+Minimal: Current,Mini,Other,llm
+MeldaProduction: MFlanger,Meld,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+chowdsp: ChowPhaserMono,Chow,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+Mellowmuse: EQ1A,Mlmu,Effect > EQ & Filters > Equalizers,llm
+Native Instruments: Solid EQ,-NI-,Effect > EQ & Filters > Equalizers,llm
+Venn Audio: Free Clip 2,Venn,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Cableguys: PanCake 2,Cabl,Effect > Time-Based > Modulation > Auto-Panners & Spacial Modulators,llm
+Frogmod Audio: buddies_v2,Frog,Other,llm
+MNTRA: MNDALA 2,Mnta,Instrument > Specialized & Unique Instruments > Generative & Algorithmic Instruments,llm
+Safari Pedals: Flamingo Verb,SFPD,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Clark Plugins: Textures,ClPl,Effect > Creative & Special FX > Granular & Texture Generators,llm
+Caelum Audio: Flux Mini 2,CaeA,Effect > Time-Based > Modulation > Auto-Panners & Spacial Modulators,llm
+polydigm: Klimper Main,Pdgm,Instrument > Specialized & Unique Instruments > Arpeggiated & Sequenced Instruments,llm
+Strange Audio: GReverb,Grvb,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+MIA Laboratories: MIAThin,P314,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+audiolatry: Drumtastic,O9ug,Instrument > Sampled Instruments > Electronic & Synthetic Samples > Drum Machines & Electronic Kits,llm
+chowdsp: ChowCentaur,Chow,Effect > Saturation & Distortion > Analog Emulation,llm
+AgusHardiman.TV: MONSTER Whistle v1,QKjx,Instrument > Specialized & Unique Instruments > World & Ethnic Instruments,llm
+HOFA: 4U+ DynamicTiltEQ,HOFA,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+unplugred: SunBurnt,Ured,Effect > Saturation & Distortion > Analog Emulation,llm
+Blue Cat Audio: BC FreqAnalyst 2 (Stereo),Bcau,Effect > Utility & Analysis > Metering & Analysis > Spectrum & Phase Analysis,llm
+2Rule: TugMultiEffect,Manu,Effect > Creative & Special FX,llm
+Native Instruments: Massive,-NI-,Instrument > Synths > Wavetable Synths,llm
+MeldaProduction: MCompressor,Meld,Effect > Dynamics > Compressors,llm
+AgusHardiman.TV: MONSTER Voxana v2022.05,Maze,Instrument > Vocal & Dialog Processing > Vocal Synthesis & Effects,llm
+MeldaProduction: MStereoScope,Meld,Effect > Utility & Analysis > Metering & Analysis > Spectrum & Phase Analysis,llm
+Plugin Alliance: bx_masterdesk Classic,Brwx,Effect > Dynamics > Compressors,llm
+Klevgrand: REAMP,Klev,Effect > Saturation & Distortion > Analog Emulation,llm
+Native Instruments: Komplete Kontrol,-NI-,Instrument,llm
+Kilohearts: kHs Channel Mixer, kHs,Effect > Utility & Analysis > Gain & Routing Tools,llm
+AgusHardiman.TV: MONSTER Synth v2.2022.10,Maze,Instrument > Synths > Modular & Hybrid Synths,llm
+Sonnox: VoxD Widen,Snnx,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+Monkwind: WickedPitcher,PIGU,Effect > Vocal & Dialog Processing > Pitch Correction & Tuning,llm
+Softube: Marshall Silver Jubilee 2555,SfTb,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Kilohearts: kHs Shaper, kHs,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+MeldaProduction: MAutopan,Meld,Effect > Modulation > Auto-Panners & Spacial Modulators,llm
+Relab Development: LX480 Essentials,Relb,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Audiomodern: Filterstep,Aumd,Effect > EQ & Filters > Creative & Modulating Filters,llm
+TAL-Togu Audio Line: TAL-Filter-2,TOGU,Effect > EQ & Filters > Creative & Modulating Filters,llm
+Plugin Alliance: bx_crispytuner,Brwx,Effect > Vocal & Dialog Processing > Pitch Correction & Tuning,llm
+Native Instruments: Raum,-NI-,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+audiolatry: Zumzet 2 Lite,O9ug,Instrument > Synths > Analog & Subtractive Synths,llm
+"Valhalla DSP, LLC: ValhallaSupermassive",oDin,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Safari Pedals: Fox Echo Chorus,SFPD,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+MeldaProduction: MPhaser,Meld,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+mucoder: hypercyclic,MUCR,MIDI Plug-In > Arpeggiators & Step Sequencers,llm
+Vital Audio: Vital,Tyte,Instrument > Synths > Wavetable Synths,llm
+Kilohearts: kHs Trance Gate, kHs,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+audiolatry: PlastikGuitar,Maze,"Instrument > Sampled Instruments > Acoustic & Orchestral > Guitars, Bass & Plucked",llm
+Native Instruments: Battery 4,-NI-,Instrument > Sampled Instruments > Electronic & Synthetic Samples > Drum Machines & Electronic Kits,llm
+Safari Pedals: Cobra Fuzz,SFPD,Effect > Saturation & Distortion > Analog Emulation,llm
+iZotope: Trash,iZtp,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+audiolatry: Amurg 4 Lite,O9ug,Instrument > Synths > Analog & Subtractive Synths,llm
+XLN Audio: Addictive Drums 2,xlnA,Instrument > Sampled Instruments > Electronic & Synthetic Samples > Drum Machines & Electronic Kits,llm
+D10Labo: LowBitMonoSyn,Dlab,Instrument > Synths > Analog & Subtractive Synths,llm
+AgusHardiman.TV: MONSTER Bass v2-2022.08,Maze,Instrument > Specialized & Unique Instruments > Bass & Low-End Instruments,llm
+GuitarML: TS-M1N3,GtML,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+MeldaProduction: MEqualizer,Meld,Effect > EQ & Filters > Equalizers,llm
+audiolatry: Mel-Lofi 2,O9ug,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Monkwind: CRUNCHer,PIGU,Effect > Saturation & Distortion > Analog Emulation,llm
+u-he: ZebraCM,UHfX,Instrument > Synths > Modular & Hybrid Synths,llm
+Blue Cat Audio: BC FreqAnalyst 2 (Mono),Bcau,Effect > Utility & Analysis > Metering & Analysis > Spectrum & Phase Analysis,llm
+ESL: RetroVerse Lite,12dp,Instrument > Synths > Granular & Sample-Based Synths,llm
+Bedroom Producers Blog: Dirty LA,Manu,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Kilohearts: kHs Phaser, kHs,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+Kyle Beats Inc: Drip,Tano,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+AgusHardiman.TV: MONSTER Ethnica v2,QKjx,Instrument > Specialized & Unique Instruments > World & Ethnic Instruments,llm
+HOFA: 4U Goniometer & Korrelator,HOFA,Effect > Utility & Analysis > Metering & Analysis > Spectrum & Phase Analysis,llm
+Safari Pedals: Level-Or,SFPD,Effect > Dynamics > Compressors,llm
+Safari Pedals: Yak Delay,SFPD,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Stagecraft Software: SC BitCrusher,ScSw,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Surge Synth Team: Surge XT Effects,VmbA,Effect > Creative & Special FX,llm
+Safari Pedals: Dragon EQ,SFPD,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+Stagecraft Software: SC AutoFilter,ScSw,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Venn Audio: Free Delay,Venn,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Blanketfort Audio: Melloharp,Bfaa,"Instrument > Sampled Instruments > Acoustic & Orchestral > Strings, Brass, Woodwinds",llm
+MeldaProduction: MRingModulator,Meld,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Puremagnetik: Expanse,Pmgk,Instrument > Specialized & Unique Instruments > Pad & Ambient Instruments,llm
+audiolatry: Upright Piano,O9ug,"Instrument > Sampled Instruments > Acoustic & Orchestral > Piano, Keys & Mallets",llm
+BEATSURFING: RANDOM Metal,Druw,Instrument > Sampled Instruments > Acoustic & Orchestral > Drums & Percussion,llm
+Minimal: Swarm Reverb,Mini,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Frogmod Audio: sapheri_v2,Frog,Effect > Creative & Special FX > Vocoders & Talkboxes,llm
+Native Instruments: Kontakt,-NI-,Instrument > Granular & Sample-Based Synths,llm
+Soundpaint: Soundpaint,8DIO,Instrument > Granular & Sample-Based Synths,llm
+MeldaProduction: MOscillator,Meld,Instrument > Synths > Analog & Subtractive Synths,llm
+Kilohearts: kHs Gain, kHs,Effect > Utility & Analysis > Other > Gain & Routing Tools,llm
+Monkwind: SaturateMe,PIGU,Effect > Saturation & Distortion > Analog Emulation,llm
+Daniel Gergely: Emergence,Dani,Other,llm
+Native Instruments: Dirt,-NI-,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Venn Audio: Free Meter,Venn,Effect > Utility & Analysis > Metering & Analysis > Loudness & Levels,llm
+Kilohearts: kHs Nonlinear Filter, kHs,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Native Instruments: Solid Bus Comp,-NI-,Effect > Dynamics > Compressors,llm
+Monkwind: WideMe,PIGU,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+audiolatry: Cosmic 2 Lite,O9ug,Instrument > Synths > Analog & Subtractive Synths,llm
+chowdsp: ChowPhaserStereo,Chow,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+u-he: TyrellN6,UHfX,Instrument > Synths > Analog & Subtractive Synths,llm
+AgusHardiman.TV: MONSTER Strings v1.2022.09,Maze,"Instrument > Sampled Instruments > Acoustic & Orchestral > Strings, Brass, Woodwinds",llm
+Minimal: Morph EQ,Mini,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+MeldaProduction: MUtility,Meld,Effect > Utility & Analysis > Other > Workflow & Management,llm
+Kilohearts: kHs Ring Mod, kHs,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Native Instruments: Replika XT,-NI-,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+HOFA: SYS AlgoVerb,HOFA,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+HOFA: SYS Comp,HOFA,Effect > Dynamics > Compressors,llm
+HOFA: SYS EQ,HOFA,Effect > EQ & Filters > Equalizers,llm
+HOFA: SYS Distortion,HOFA,Effect > Saturation & Distortion > Analog Emulation,llm
+HOFA: SYS Gain,HOFA,Effect > Utility & Analysis > Other > Gain & Routing Tools,llm
+HOFA: SYS Pan,HOFA,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+HOFA: SYS CompListenMic,HOFA,Effect > Dynamics > Compressors,llm
+HOFA: SYS Pitch,HOFA,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+HOFA: SYS Delay,HOFA,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+HOFA: SYS Expander,HOFA,Effect > Dynamics > Gates & Expanders,llm
+HOFA: SYS Gate,HOFA,Effect > Dynamics > Gates & Expanders,llm
+HOFA: SYS Notepad,HOFA,Effect > Utility & Analysis > Other > Workflow & Management,llm
+HOFA: SYS Meter,HOFA,Effect > Utility & Analysis > Metering & Analysis > Loudness & Levels,llm
+HOFA: SYS PinkNoise,HOFA,Generator > Test Tones & Noise Generators,llm
+HOFA: SYS Flanger,HOFA,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+HOFA: SYS MultiMod,HOFA,Effect > Modulation > Auto-Panners & Spacial Modulators,llm
+HOFA: SYS Phaser,HOFA,Effect > Modulation > Phaser & Tremolo,llm
+HOFA: SYS Chorus,HOFA,Effect > Modulation > Chorus & Flanger,llm
+HOFA: SYS Saturator,HOFA,Effect > Saturation & Distortion > Analog Emulation,llm
+HOFA: SYS EQ-Dynamic,HOFA,Other,llm
+HOFA: SYS IR-Verb,HOFA,Effect > Time-Based > Reverb > Convolution & Spring Reverb,llm
+HOFA: SYS MasterLimiter,HOFA,Effect > Dynamics > Limiters,llm
+HOFA: SYS TransientShaper,HOFA,Effect > Dynamics > Transient Processors,llm
+HOFA: SYS DelayPro,HOFA,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Ear Candy Technologies: Esmeralda,Manu,Other,llm
+Polyverse Music: Wider,PLVR,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+Monkwind: MajicFM,PIGU,Instrument > Synths > FM & Phase Modulation Synths,llm
+Native Instruments: FM8,-NI-,Instrument > Synths > FM & Phase Modulation Synths,llm
+Native Instruments: FM8 MFX,-NI-,Other,llm
+Plugin Alliance: bx_meter,Brwx,Effect > Utility & Analysis > Metering & Analysis > Loudness & Levels,llm
+Safari Pedals: Hawk Phaser,SFPD,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+Diginoiz: TrapDrive,Dign,Effect > Saturation & Distortion > Analog Emulation,llm
+MeldaProduction: MSaturator,Meld,Effect > Saturation & Distortion > Analog Emulation,llm
+audiolatry: Grand Piano,O9ug,"Instrument > Sampled Instruments > Acoustic & Orchestral > Piano, Keys & Mallets",llm
+Plugin Alliance: bx_tuner,Brwx,Utility & Analysis > Other > Workflow & Management,llm
+Acon Digital: Acon Digital Verberate Basic 2,ACON,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Native Instruments: Kontakt 7,-NI-,Instrument > Sampled Instruments,llm
+TAL-Togu Audio Line: TAL-NoiseMaker,TOGU,Instrument > Synths > Analog & Subtractive Synths,llm
+Focusrite: Focusrite Red 3 Compressor,FCUS,Effect > Dynamics > Compressors,llm
+Monkwind: LEVELer,PIGU,Utility & Analysis > Metering & Analysis > Loudness & Levels,llm
+UJAM: FIN-MICRO,UJAM,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Blue Cat Audio: BC Freeceiver,Bcau,Utility & Analysis > Other > Stereo Imaging & Widening,llm
+polydigm: Klimper Track,Pdgm,MIDI Plug-In > Chord & Scale Tools,llm
+Blue Cat Audio: BC Flanger 3 (Mono),Bcau,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+chowdsp: ChowMatrix,Chow,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Blue Cat Audio: BC Gain 3 (Dual),Bcau,Effect > Utility & Analysis > Other > Gain & Routing Tools,llm
+Wave Arts: Tube Saturator Vintage,Wart,Effect > Saturation & Distortion > Analog Emulation,llm
+Plugin Alliance: bx_greenscreamer,Brwx,Effect > Saturation & Distortion > Analog Emulation,llm
+Blue Cat Audio: BC Gain 3 (Mono),Bcau,Effect > Utility & Analysis > Other > Gain & Routing Tools,llm
+Kilohearts: kHs Filter, kHs,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Cymatics: Cymatics Origin,Cyma,Instrument > Specialized & Unique Instruments > Generative & Algorithmic Instruments,llm
+Safari Pedals: Rabbit Tape,SFPD,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Kilohearts: kHs Formant Filter, kHs,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Surge Synth Team: Surge XT,VmbA,Instrument > Synths > Modular & Hybrid Synths,llm
+KiTiK Music: Chop Chop!,Manu,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+GAS Therapy: AnyAmpIR,Gast,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Dada Life: Wide Awake,TLDN,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+Venn Audio: Free Convolve,Venn,Effect > Time-Based > Reverb > Convolution & Spring Reverb,llm
+Techivation: T-Puncher-Free,Tech,Effect > Dynamics > Transient Processors,llm
+MeldaProduction: MOscilloscope,Meld,Effect > Utility & Analysis > Metering & Analysis > Spectrum & Phase Analysis,llm
+Native Instruments: Replika,-NI-,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Audiomodern: Panflow,Aumd,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+Dada Life: Endless Smile,TLDN,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Monkwind: ArpeggiateMe,PIGU,MIDI Plug-In > Arpeggiators & Step Sequencers,llm
+unplugred: MPaint,Ured,Other,llm
+MeldaProduction: MNotepad,Meld,Effect > Utility & Analysis > Other > Workflow & Management,llm
+Splice: Splice Bridge,Splc,Other,llm
+D10Labo: RhythmDelayFree,Dlab,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Native Instruments: Supercharger GT,-NI-,Effect > Dynamics > Compressors,llm
+ESL: 808 Bass Module 5 Lite,12dp,Instrument > Sampled Instruments > Electronic & Synthetic Samples > Drum Machines & Electronic Kits,llm
+Safari Pedals: Silver Llama Amp,SFPD,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+BABY Audio: Pitch Drift,B4by,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+Plugin Alliance: bx_bluechorus2,Brwx,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+TAL-Togu Audio Line: TAL-Chorus-LX,TOGU,Effect > Time-Based > Modulation > Chorus & Flanger,llm
+MeldaProduction: MCCGenerator,Meld,Generator > Test Tones & Noise Generators,llm
+chowdsp: CHOWTapeModel,Chow,Effect > Saturation & Distortion > Analog Emulation,llm
+Sonnox: VoxD Thicken,Snnx,Effect > Vocal & Dialog Processing > Vocal Thickening & Doubling,llm
+brand0: gooper,BND0,Other,llm
+Plugin Alliance: bx_crispyscale,Brwx,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Big Fish Audio: Momentum,BIGF,Instrument > Granular & Sample-Based Synths,llm
+BPB: DirtySpring,Bpr0,Effect > Time-Based > Reverb > Convolution & Spring Reverb,llm
+Native Instruments: Choral,-NI-,Effect > Modulation > Chorus & Flanger,llm
+unplugred: Scope,Ured,Effect > Utility & Analysis > Spectrum & Phase Analysis,llm
+Soundly: Soundly Place it,Sdly,Other,llm
+TAL-Togu Audio Line: TAL-Vocoder-2,TOGU,Effect > Creative & Special FX > Vocoders & Talkboxes,llm
+Sound Particles: AirMusic,SPar,Other,llm
+MeldaProduction: MComb,Meld,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Minimal: Fuse Compressor,Mini,Effect > Dynamics > Compressors,llm
+Plugin Alliance: bx_megasingle,Brwx,Other,llm
+MeldaProduction: MChannelMatrix,Meld,Effect > Utility & Analysis > Gain & Routing Tools,llm
+Tracktion: Attracktive,TSCP,Other,llm
+AgusHardiman.TV: MONSTER Piano v3,QKjx,"Instrument > Sampled Instruments > Acoustic & Orchestral > Piano, Keys & Mallets",llm
+Kilohearts: kHs Compressor, kHs,Effect > Dynamics > Compressors,llm
+Dada Life: Sausage Fattener,TLDN,Effect > Saturation & Distortion > Exciters & Enhancers,llm
+NovoNotes: Ambience Enhancer Lite,Magn,Effect > Creative & Special FX > Vocoders & Talkboxes,llm
+dog magic: Bad Channel Micro,Manu,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Tritik: Krush,TrTk,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Venn Audio: Free Comp,Venn,Effect > Dynamics > Compressors,llm
+Urban Kits: Bedroom Guitar,Boex,"Instrument > Sampled Instruments > Acoustic & Orchestral > Guitars, Bass & Plucked",llm
+Wavegrove: Vastaus,WGRV,Effect > Dynamics > Limiters,llm
+HOFA: 4U+ BlindTest,HOFA,Utility & Analysis > Workflow & Management,llm
+XLN Audio: Addictive Keys,xlnA,"Instrument > Sampled Instruments > Acoustic & Orchestral > Piano, Keys & Mallets",llm
+ADSR: ADSR Sample Manager,ADSR,Utility & Analysis > Workflow & Management,llm
+AgusHardiman.TV: MONSTER Guitar v2.2022.09,Maze,"Instrument > Sampled Instruments > Acoustic & Orchestral > Guitars, Bass & Plucked",llm
+audiolatry: Lofi Flute,O9ug,Instrument > Synths > Granular & Sample-Based Synths,llm
+Kilohearts: kHs Reverb, kHs,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Dada Life: Space In-Your-Face,TLDN,Effect > Creative & Special FX > Vocoders & Talkboxes,llm
+Maizesoft: Maize Sampler Player,Maze,Instrument > Synths > Granular & Sample-Based Synths,llm
+Ear Candy Technologies: Zafiro,Manu,Effect > Saturation & Distortion > Exciters & Enhancers,llm
+Kilohearts: kHs Tape Stop, kHs,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Kilohearts: kHs Gate, kHs,Effect > Dynamics > Gates & Expanders,llm
+Plugin Alliance: bx_opto Pedal,Brwx,Effect > Dynamics > Compressors,llm
+ESL: CMP100,12dp,Effect > Dynamics > Compressors,llm
+Minimal: Ripple Phaser,Mini,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+Minimal: Rift,Mini,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+MeldaProduction: MCharmVerb,Meld,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Minimal: Cluster Delay,Mini,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Apisonic Labs: Transperc,ApLa,Effect > Dynamics > Transient Processors,llm
+unplugred: ClickBox,Ured,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Focusrite: Focusrite Red 2 EQ,FCUS,Effect > EQ & Filters > Equalizers,llm
+MeldaProduction: MNoiseGenerator,Meld,Generator > Test Tones & Noise Generators,llm
+unplugred: Pisstortion,Ured,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Universal Audio (UADx): UADx LA-2A Tube Compressor,UADx,Effect > Dynamics > Compressors,llm
+BABY Audio: Magic Switch,B4by,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Safari Pedals: Owl Control,SFPD,MIDI-Controlled Effect > Parameter & Macro Control,llm
+TheWaveWarden: Odin2,WAWA,Instrument > Synths > Analog & Subtractive Synths,llm
+Minimal: Flex Chorus,Mini,Effect > Modulation > Chorus & Flanger,llm
+Blue Cat Audio: BC Chorus 4 (Mono),Bcau,Effect > Modulation > Chorus & Flanger,llm
+D10Labo: ModSynthMono,Dlab,Instrument > Synths > Analog & Subtractive Synths,llm
+MeldaProduction: MWaveFolder,Meld,Effect > Saturation & Distortion > Analog Emulation,llm
+Techivation: T-De-Esser,Tech,Effect > Dynamics > De-Essers,llm
+Blue Cat Audio: BC Phaser 3 (Stereo),Bcau,Effect > Modulation > Phaser & Tremolo,llm
+Plugin Alliance: SPL Free Ranger,SPL1,Effect > EQ & Filters > Equalizers,llm
+u-he: Zebra2,UHfX,Instrument > Synths > Wavetable Synths,llm
+u-he: Zebralette,UHfX,Instrument > Synths > Wavetable Synths,llm
+u-he: ZRev,UHfX,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+u-he: Zebrify,UHfX,Effect > Creative & Special FX,llm
+STL Tones: STL AmpHub LE,STLT,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Kilohearts: kHs Phase Distortion, kHs,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Native Instruments: Freak,-NI-,Effect > Creative & Special FX,llm
+Klevgrand: Korvpressor,Klev,Effect > Dynamics > Compressors,llm
+HigherHz: HZ Multiplier,HiHz,Effect > Creative & Special FX,llm
+Safari Pedals: TimeMachine,SFPD,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Wavea: Flite,Wave,Instrument > Specialized & Unique Instruments > Pad & Ambient Instruments,llm
+99Sounds: DrumPlayer v1,TmL$,Instrument > Sampled Instruments > Electronic & Synthetic Samples > Drum Machines & Electronic Kits,llm
+Blue Cat Audio: BC Triple EQ 4 (Mono),Bcau,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+Native Instruments: Solid Dynamics,-NI-,Effect > Dynamics,llm
+Wave Alchemy: Magic7,Wval,Effect > Creative & Special FX,llm
+MeldaProduction: MFreqShifter,Meld,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+Safari Pedals: Twin Panda Amp,SFPD,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Plugin Alliance: bx_metal2,Brwx,Effect > Saturation & Distortion > Analog Emulation,llm
+Bedroom Producers Blog: BPB 64,Maze,Instrument > Synths > Analog & Subtractive Synths,llm
+MeldaProduction: MMetronome,Meld,Generator > Test Tones & Noise Generators,llm
+MeldaProduction: MTuner,Meld,Utility & Analysis > Metering & Analysis > Loudness & Levels,llm
+Venn Audio: Free Pan,Venn,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+Kilohearts: kHs Pitch Shifter, kHs,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+Safari Pedals: LadyBug Reverb,SFPD,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+AgusHardiman.TV: MONSTER Sax v1,QKjx,Instrument > Sampled Instruments > Acoustic & Orchestral > Woodwinds,llm
+Xfer Records: DJMFilter,XFER,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+BEATSURFING: RANDOM,Druw,Instrument > Specialized & Unique Instruments > Generative & Algorithmic Instruments,llm
+Blue Cat Audio: BC Triple EQ 4 (Dual),Bcau,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+audiolatry: 808XD,Maze,Instrument > Sampled Instruments > Electronic & Synthetic Samples > Drum Machines & Electronic Kits,llm
+unplugred: Prisma,Ured,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+iZotope: Ozone 10,iZtp,Effect > Utility & Analysis > Metering & Analysis,llm
+"Audio Damage, Inc.: Grind",AuDa,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Venn Audio: Free Tone,Venn,Effect > EQ & Filters > Equalizers,llm
+MeldaProduction: MDelay,Meld,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+iZotope: Vinyl,iZtp,Effect > Saturation & Distortion > Analog Emulation,llm
+Native Instruments: Supercharger,-NI-,Effect > Dynamics > Compressors,llm
+CNB MUSIC: MBB,Dh0d,Instrument > Bass & Low-End Instruments,llm
+Denise Audio: My Crush,D3na,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Monkwind: GimmeSpace,PIGU,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+ZAK Sound: Orange Dreams 2 Lite,Zaks,Instrument > Synths > Analog & Subtractive Synths,llm
+Monkwind: SaturateLLC,PIGU,Effect > Saturation & Distortion > Analog Emulation,llm
+Kilohearts: kHs Delay, kHs,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Safari Pedals: Bull Sub Machine,SFPD,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Safari Pedals: Rhino Reverb,SFPD,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Kilohearts: kHs Clipper, kHs,Effect > Dynamics > Limiters,llm
+Cymatics: Cymatics Space Lite,Cyma,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+plugdata: plugdata-fx,PlDt,Other,llm
+Fuse Audio Labs: VREV-666,FsAu,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+xin: lulu,Exmp,Other,llm
+iZotope: Vocal Doubler,iZtp,Effect > Vocal & Dialog Processing > Vocal Thickening & Doubling,llm
+u-he: BazilleCM,UHfX,Instrument > Synths > Modular & Hybrid Synths,llm
+Xfer Records: Dimension Expander,XFER,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+MeldaProduction: MBandPass,Meld,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+MeldaProduction: MVibrato,Meld,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+Safari Pedals: Silver Llama FX,SFPD,Effect > Saturation & Distortion > Analog Emulation,llm
+Cherry Audio: Surrealistic MG-1 Plus,Chry,Instrument > Synths > Analog & Subtractive Synths,llm
+KSHMR: KSHMR Essentials Kick,K5mr,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+Spitfire Audio: LABS,SpFi,"Instrument > Sampled Instruments > Acoustic & Orchestral > Strings, Brass, Woodwinds",llm
+MeldaProduction: MAutoPitch,Meld,Effect > Vocal & Dialog Processing > Pitch Correction & Tuning,llm
+Unison: Unison Zen Master,UNIS,Other,llm
+Plugin Alliance: bx_console Focusrite SC,Brwx,Effect > Utility & Analysis > Other,llm
+Steinberg: HALion Sonic,Stbg,Instrument > Sampled Instruments,llm
+Sampleson: rePEDAL,Samp,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+Minimal: Wave Shifter,Mini,Effect > Creative & Special FX > Pitch & Formant Shifters,llm
+"Valhalla DSP, LLC: ValhallaSpaceModulator",oDin,Effect > Time-Based > Modulation,llm
+TAL-Togu Audio Line: TAL Reverb 4 Plugin,TOGU,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+unplugred: Prismon,Ured,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+HOFA: SYSTEM,HOFA,Effect > Utility & Analysis > Workflow & Management,llm
+Spitfire Audio: BBC Symphony Orchestra,SpFi,Instrument > Sampled Instruments > Acoustic & Orchestral,llm
+nthnblair: Karp,Nthn,Instrument > Synths > Analog & Subtractive Synths,llm
+GAS Therapy: AASamplePlayer,Gast,Instrument > Granular & Sample-Based Synths,llm
+accentize: PreFET,Actz,Effect > Saturation & Distortion > Analog Emulation,llm
+Glitchmachines: Fracture,GlMa,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+u-he: Podolski,UHfX,Instrument > Synths > Analog & Subtractive Synths,llm
+Kilohearts: kHs Resonator, kHs,Effect > EQ & Filters > Filters > Resonance & Feedback Suppression,llm
+Kilohearts: kHs Dual Delay, kHs,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Cymatics: Cymatics Memory,Cyma,Other,llm
+Neutone: Neutone Morpho,NTON,Other,llm
+MeldaProduction: MFreeformPhase,Meld,Effect > Utility & Analysis > Metering & Analysis > Spectrum & Phase Analysis,llm
+Safari Pedals: Twin Panda FX,SFPD,Other,llm
+Kilohearts: kHs Comb Filter, kHs,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Bertom: Denoiser Classic,Brtm,Effect > Dynamics > Noise Reduction & Restoration,llm
+Ample Sound: Ample Bass P Lite II,Apsd,"Instrument > Sampled Instruments > Acoustic & Orchestral > Guitars, Bass & Plucked",llm
+MeldaProduction: MTremolo,Meld,Effect > Time-Based > Modulation > Phaser & Tremolo,llm
+MeldaProduction: MWaveShaper,Meld,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+MNTRA: BOREALIS-LE,Mnta,Other,llm
+AgusHardiman.TV: MONSTER Toys v1,QKjx,Other,llm
+HigherHz: HZ Delay,HiHz,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Kilohearts: kHs Bitcrush, kHs,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+Plugin Alliance: bx_rockrack V3 Player,Brwx,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+Plugin Alliance: bx_boom,Brwx,Effect > Dynamics > Transient Processors,llm
+BABY Audio: Beat Slammer,B4by,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+iZotope: Ozone Imager 2,iZtp,Effect > Utility & Analysis > Stereo Imaging & Widening,llm
+Safari Pedals: Dirty Dog Reverb,SFPD,Effect > Time-Based > Reverb > Algorithmic & Plate Reverb,llm
+Magenta: DDSP Effect,Mage,Other,llm
+Native Instruments: Reaktor 6,-NI-,Instrument > Modular & Hybrid Synths,llm
+Native Instruments: Reaktor 6 MFX,-NI-,MIDI-Controlled Effect > MIDI-Triggered Creative FX,llm
+Native Instruments: Reaktor 6 MIDIFX,-NI-,MIDI Plug-In > MIDI Processors & Transformers,llm
+Kilohearts: kHs Ensemble, kHs,Effect > Modulation > Chorus & Flanger,llm
+AgusHardiman.TV: MONSTER Drums v3,QKjx,Instrument > Sampled Instruments > Acoustic & Orchestral > Drums & Percussion,llm
+Audiomodern: Gatelab,Aumd,Effect > Dynamics > Gates & Expanders,llm
+Tilr: TIME-12,Tilr,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+IntegrAudio: Blowdio,Inte,Effect > Creative & Special FX > Vocoders & Talkboxes,llm
+Plugin Alliance: bx_cleansweep V2,Brwx,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+HY-Plugins: HY-Delay4_free,HYhy,Effect > Time-Based > Delay > Standard & Creative Delay,llm
+Decidedly: DecentSampler,Dldy,Instrument > Granular & Sample-Based Synths,llm
+MeldaProduction: MLoudnessAnalyzer,Meld,Effect > Utility & Analysis > Metering & Analysis > Loudness & Levels,llm
+Kilohearts: kHs Ladder Filter, kHs,Effect > EQ & Filters > Filters > Creative & Modulating Filters,llm
+Fuse Audio Labs: RS-W2395C,FsAu,Effect > EQ & Filters > Equalizers > Character & Emulation EQ,llm
+Monkwind: SUMO,PIGU,Effect > Saturation & Distortion > Analog Emulation,llm
+Glitchmachines: Hysteresis,GlMa,Effect > Creative & Special FX > Glitch & Stutter Effects,llm
+Monkwind: Suppressor,PIGU,Effect > Dynamics > Gates & Expanders,llm
+Safari Pedals: Lion Master,SFPD,Effect > Saturation & Distortion > Amp & Cabinet Emulation,llm
+MIA Laboratories: MIAMuscle,P314,Effect > Saturation & Distortion > Exciters & Enhancers,llm
+Kilohearts: kHs Dynamics, kHs,Effect > Dynamics > Compressors,llm
+Safari Pedals: Zebra Clipper,SFPD,Effect > Saturation & Distortion > Digital & Lo-Fi Distortion,llm
+audiolatry: RetroSynth Lite,O9ug,Instrument > Analog & Subtractive Synths,llm
+2Rule: 2RuleSynth,Manu,Instrument > Analog & Subtractive Synths,llm
+Caelum Audio: Tape Cassette 2,CaeA,Effect > Saturation & Distortion > Analog Emulation,llm
+Kilohearts: kHs Stereo, kHs,Effect > Utility & Analysis > Other > Stereo Imaging & Widening,llm
+MeldaProduction: MAnalyzer,Meld,Effect > Utility & Analysis > Metering & Analysis > Spectrum & Phase Analysis,llm
+Xfer Records: OTT,XFER,Effect > Dynamics > Compressors,llm
